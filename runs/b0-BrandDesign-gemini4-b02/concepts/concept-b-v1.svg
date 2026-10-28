@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-b">
+  <title id="title-b">矩台 KADR — Concept B (Queue and Lock) v1</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Top queued strip -->
+    <path id="queue-top" d="M 24 36 H 96 V 76 H 24 Z"/>
+    <!-- Middle active comparison strip stepping into the viewfinder frame -->
+    <path id="queue-active" d="M 24 108 H 164 L 180 128 L 164 148 H 24 Z"/>
+    <!-- Bottom queued strip -->
+    <path id="queue-bottom" d="M 24 180 H 96 V 220 H 24 Z"/>
+    <!-- Right locked master frame with top/bottom split gap at x=116 -->
+    <path id="master-frame" d="M 116 36 H 232 V 220 H 116 V 164 H 148 V 188 H 200 V 68 H 148 V 92 H 116 Z"/>
+  </g>
+</svg>

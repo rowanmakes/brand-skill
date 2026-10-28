@@ -1,0 +1,519 @@
+{
+  "schema": "brand-identity/logo-build@1",
+  "set": "B",
+  "type": "wordmark",
+  "font": {
+    "path": "/home/dev/.cache/brand-identity/fonts/instances/NotoSerifSC-dc0f930eb155a627.ttf",
+    "role": "display",
+    "location": {
+      "wght": 700
+    },
+    "license": "OFL-1.1",
+    "family": "Noto Serif SC"
+  },
+  "masters": {
+    "symbol-small": "master-symbol-small.svg",
+    "wordmark": "master-wordmark.svg",
+    "primary": "master-primary.svg"
+  },
+  "versions": {
+    "full-color": {
+      "svg": "full-color.svg",
+      "png": "full-color.png",
+      "size": [
+        1024,
+        760
+      ],
+      "mode": "light",
+      "ground": null,
+      "ground_role": null,
+      "one_color": false,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "wordmark"
+          ],
+          "hex": "#1e2422",
+          "area": 10885.34
+        },
+        {
+          "role": "accent",
+          "ids": [
+            "wordmark-detail-proof-rule"
+          ],
+          "hex": "#b81d33",
+          "area": 3047.0
+        }
+      ]
+    },
+    "full-color-dark": {
+      "svg": "full-color-dark.svg",
+      "png": "full-color-dark.png",
+      "size": [
+        1024,
+        760
+      ],
+      "mode": "dark",
+      "ground": null,
+      "ground_role": null,
+      "one_color": false,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "wordmark",
+            "wordmark-detail-proof-rule"
+          ],
+          "hex": "#ef656a",
+          "area": 13932.34
+        }
+      ]
+    },
+    "one-color-dark": {
+      "svg": "one-color-dark.svg",
+      "png": "one-color-dark.png",
+      "size": [
+        1024,
+        760
+      ],
+      "mode": "light",
+      "ground": null,
+      "ground_role": null,
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "wordmark",
+            "wordmark-detail-proof-rule"
+          ],
+          "hex": "#1c1c1c",
+          "area": 13932.34
+        }
+      ]
+    },
+    "one-color-light": {
+      "svg": "one-color-light.svg",
+      "png": "one-color-light.png",
+      "size": [
+        1024,
+        760
+      ],
+      "mode": "dark",
+      "ground": null,
+      "ground_role": null,
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "wordmark",
+            "wordmark-detail-proof-rule"
+          ],
+          "hex": "#f3f3f3",
+          "area": 13932.34
+        }
+      ]
+    },
+    "on-light-background": {
+      "svg": "on-light-background.svg",
+      "png": "on-light-background.png",
+      "size": [
+        1024,
+        760
+      ],
+      "mode": "light",
+      "ground": "#f5f5f3",
+      "ground_role": "background",
+      "one_color": false,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "wordmark"
+          ],
+          "hex": "#1e2422",
+          "area": 10885.34
+        },
+        {
+          "role": "accent",
+          "ids": [
+            "wordmark-detail-proof-rule"
+          ],
+          "hex": "#b81d33",
+          "area": 3047.0
+        }
+      ]
+    },
+    "on-dark-background": {
+      "svg": "on-dark-background.svg",
+      "png": "on-dark-background.png",
+      "size": [
+        1024,
+        760
+      ],
+      "mode": "dark",
+      "ground": "#141615",
+      "ground_role": "background",
+      "one_color": false,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "wordmark",
+            "wordmark-detail-proof-rule"
+          ],
+          "hex": "#ef656a",
+          "area": 13932.34
+        }
+      ]
+    },
+    "on-light-primary": {
+      "svg": "on-light-primary.svg",
+      "png": "on-light-primary.png",
+      "size": [
+        1024,
+        760
+      ],
+      "mode": "light",
+      "ground": "#1e2422",
+      "ground_role": "primary",
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "wordmark",
+            "wordmark-detail-proof-rule"
+          ],
+          "hex": "#ffffff",
+          "area": 13932.34
+        }
+      ]
+    },
+    "on-light-accent": {
+      "svg": "on-light-accent.svg",
+      "png": "on-light-accent.png",
+      "size": [
+        1024,
+        760
+      ],
+      "mode": "light",
+      "ground": "#b81d33",
+      "ground_role": "accent",
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "wordmark",
+            "wordmark-detail-proof-rule"
+          ],
+          "hex": "#ffffff",
+          "area": 13932.34
+        }
+      ]
+    },
+    "favicon-16": {
+      "svg": "favicon-16.svg",
+      "png": "favicon-16.png",
+      "size": [
+        16,
+        16
+      ],
+      "mode": "light",
+      "ground": null,
+      "ground_role": null,
+      "one_color": false,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "top-bar",
+            "stem-left",
+            "stem-right"
+          ],
+          "hex": "#1e2422",
+          "area": 2072.0
+        },
+        {
+          "role": "accent",
+          "ids": [
+            "rule-base"
+          ],
+          "hex": "#b81d33",
+          "area": 1064.0
+        }
+      ]
+    },
+    "favicon-32": {
+      "svg": "favicon-32.svg",
+      "png": "favicon-32.png",
+      "size": [
+        32,
+        32
+      ],
+      "mode": "light",
+      "ground": null,
+      "ground_role": null,
+      "one_color": false,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "top-bar",
+            "stem-left",
+            "stem-right"
+          ],
+          "hex": "#1e2422",
+          "area": 2072.0
+        },
+        {
+          "role": "accent",
+          "ids": [
+            "rule-base"
+          ],
+          "hex": "#b81d33",
+          "area": 1064.0
+        }
+      ]
+    },
+    "favicon-48": {
+      "svg": "favicon-48.svg",
+      "png": "favicon-48.png",
+      "size": [
+        48,
+        48
+      ],
+      "mode": "light",
+      "ground": null,
+      "ground_role": null,
+      "one_color": false,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "top-bar",
+            "stem-left",
+            "stem-right"
+          ],
+          "hex": "#1e2422",
+          "area": 2072.0
+        },
+        {
+          "role": "accent",
+          "ids": [
+            "rule-base"
+          ],
+          "hex": "#b81d33",
+          "area": 1064.0
+        }
+      ]
+    },
+    "small-16-one-color-dark": {
+      "svg": "small-16-one-color-dark.svg",
+      "png": "small-16-one-color-dark.png",
+      "size": [
+        16,
+        16
+      ],
+      "mode": "light",
+      "ground": null,
+      "ground_role": null,
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "top-bar",
+            "stem-left",
+            "stem-right",
+            "rule-base"
+          ],
+          "hex": "#1c1c1c",
+          "area": 3136.0
+        }
+      ]
+    },
+    "small-16-one-color-light": {
+      "svg": "small-16-one-color-light.svg",
+      "png": "small-16-one-color-light.png",
+      "size": [
+        16,
+        16
+      ],
+      "mode": "dark",
+      "ground": "#141615",
+      "ground_role": "background",
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "top-bar",
+            "stem-left",
+            "stem-right",
+            "rule-base"
+          ],
+          "hex": "#f3f3f3",
+          "area": 2918.63
+        }
+      ]
+    },
+    "small-32-one-color-dark": {
+      "svg": "small-32-one-color-dark.svg",
+      "png": "small-32-one-color-dark.png",
+      "size": [
+        32,
+        32
+      ],
+      "mode": "light",
+      "ground": null,
+      "ground_role": null,
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "top-bar",
+            "stem-left",
+            "stem-right",
+            "rule-base"
+          ],
+          "hex": "#1c1c1c",
+          "area": 3136.0
+        }
+      ]
+    },
+    "small-32-one-color-light": {
+      "svg": "small-32-one-color-light.svg",
+      "png": "small-32-one-color-light.png",
+      "size": [
+        32,
+        32
+      ],
+      "mode": "dark",
+      "ground": "#141615",
+      "ground_role": "background",
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "top-bar",
+            "stem-left",
+            "stem-right",
+            "rule-base"
+          ],
+          "hex": "#f3f3f3",
+          "area": 2918.63
+        }
+      ]
+    },
+    "app-icon-512": {
+      "svg": "app-icon-512.svg",
+      "png": "app-icon-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "light",
+      "ground": "#1e2422",
+      "ground_role": "primary",
+      "one_color": true,
+      "device": null,
+      "parts": [
+        {
+          "role": "primary",
+          "ids": [
+            "top-bar",
+            "stem-left",
+            "stem-right",
+            "rule-base"
+          ],
+          "hex": "#ffffff",
+          "area": 3136.0
+        }
+      ]
+    }
+  },
+  "small": {},
+  "sources": {
+    "wordmark_detail": {
+      "sha256": "af94c3e6784863ffb69c672b1e141508b89590df14d753b4e8fec607570bd217"
+    },
+    "symbol_small": {
+      "sha256": "f2a106915559ee8e607ba96a0184c004dd9bf13214aa6e749146950ae5181fd0"
+    }
+  },
+  "optics": {
+    "cap_height": 741.0,
+    "x_height": 536.0,
+    "upm": 1000,
+    "overshoot_top": 0.0243,
+    "overshoot_bottom": 0.0256,
+    "x_overshoot_top": 0.0299,
+    "stem": 19.279,
+    "crossbar": 4.858,
+    "crossbar_stem_ratio": 0.252
+  },
+  "glyphs": {
+    "wordmark": "wordmark-glyphs.json"
+  },
+  "primary": "wordmark",
+  "anchors": {
+    "symbol-small": 16
+  },
+  "clear_space": {
+    "unit": "cap-height",
+    "multiple": 1.0,
+    "units": 100.0
+  },
+  "grounds": [
+    {
+      "mode": "light",
+      "ground": "background",
+      "on": "full colour"
+    },
+    {
+      "mode": "dark",
+      "ground": "background",
+      "on": "full colour"
+    },
+    {
+      "mode": "light",
+      "ground": "primary",
+      "on": "onPrimary"
+    },
+    {
+      "mode": "light",
+      "ground": "accent",
+      "on": "onAccent"
+    }
+  ],
+  "icon_from": "symbol-small.svg",
+  "favicon_source": "symbol-small.svg",
+  "app_icon": {
+    "tile": "primary",
+    "mark": "onPrimary",
+    "content": 0.58,
+    "optical_lift": 0.015,
+    "source": "default"
+  }
+}

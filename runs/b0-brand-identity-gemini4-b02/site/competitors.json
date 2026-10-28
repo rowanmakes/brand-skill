@@ -1,0 +1,280 @@
+{
+  "schema": "brand-identity/competitors@1",
+  "measuredAt": "2026-10-28T13:50:10.401Z",
+  "note": "Measured hex values approximate public websites; roles are unconfirmed proposals.",
+  "sites": [
+    {
+      "url": "https://www.krea.ai/",
+      "host": "krea.ai",
+      "status": "ok",
+      "title": "Krea: AI Creative Suite for Images, Video & 3D",
+      "siteName": "Krea",
+      "description": "Generate, edit, and enhance images, videos, and 3D with Krea's AI creative suite. Start free with real-time tools and the best generative models.",
+      "lang": "en",
+      "themeColor": "#0A0A0A",
+      "darkModeSupport": false,
+      "roles": {
+        "background": "#0a0a0a",
+        "surface": "#171717",
+        "surfaceAlt": "#e5e5e5",
+        "border": "#ffffff",
+        "text": "#fafafa",
+        "textMuted": "#262626",
+        "primary": "#ffffff",
+        "onPrimary": "#000000",
+        "accent": "#0074f0",
+        "onAccent": "#fafafa",
+        "link": "#737373",
+        "focus": "#737373",
+        "danger": "#ff6568"
+      },
+      "confidence": {
+        "background": 0.85,
+        "surface": 0.85,
+        "surfaceAlt": 0.4,
+        "border": 0.85,
+        "text": 0.85,
+        "textMuted": 0.7,
+        "primary": 0.9,
+        "onPrimary": 0.85,
+        "accent": 0.75,
+        "onAccent": 0.85,
+        "link": 0.82,
+        "focus": 0.45,
+        "danger": 0.45
+      },
+      "notes": [],
+      "brandColors": [
+        "#ffffff",
+        "#0074f0"
+      ],
+      "topColors": [
+        {
+          "hex": "#ffffff",
+          "oklch": "oklch(100.0% 0.000 90)",
+          "score": 444.85,
+          "areaShare": 3.2268,
+          "roles": [
+            "border",
+            "primary"
+          ]
+        },
+        {
+          "hex": "#000000",
+          "oklch": "oklch(0.0% 0.000 0)",
+          "score": 344.02,
+          "areaShare": 1.4596,
+          "roles": [
+            "onPrimary"
+          ]
+        },
+        {
+          "hex": "#f5f5f5",
+          "oklch": "oklch(97.0% 0.000 90)",
+          "score": 253.46,
+          "areaShare": 2.5346,
+          "roles": []
+        },
+        {
+          "hex": "#e5e5e5",
+          "oklch": "oklch(92.2% 0.000 90)",
+          "score": 126.48,
+          "areaShare": 1.0476,
+          "roles": [
+            "surfaceAlt"
+          ]
+        },
+        {
+          "hex": "#0b0f15",
+          "oklch": "oklch(16.7% 0.014 258)",
+          "score": 99.18,
+          "areaShare": 0.9918,
+          "roles": []
+        },
+        {
+          "hex": "#a3a3a3",
+          "oklch": "oklch(71.5% 0.000 90)",
+          "score": 83.63,
+          "areaShare": 0.0142,
+          "roles": []
+        },
+        {
+          "hex": "#737373",
+          "oklch": "oklch(55.6% 0.000 90)",
+          "score": 63.8,
+          "areaShare": 0.0004,
+          "roles": [
+            "link",
+            "focus"
+          ]
+        },
+        {
+          "hex": "#404040",
+          "oklch": "oklch(37.1% 0.000 90)",
+          "score": 54.15,
+          "areaShare": 0,
+          "roles": []
+        }
+      ],
+      "nHues": 3,
+      "hues": [
+        257,
+        29,
+        84
+      ],
+      "lightnessRange": [
+        0,
+        1
+      ],
+      "strategy": "tokens",
+      "fonts": {
+        "heading": "\"Suisse Intl\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "body": "\"Suisse Intl\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "paragraph": "\"Suisse Intl\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "loaded": [
+          "Suisse Intl 400 normal",
+          "Suisse Intl 450 normal",
+          "Suisse Intl 500 normal",
+          "Suisse Intl 600 normal",
+          "Suisse Intl 700 normal"
+        ]
+      },
+      "screenshot": "competitors/krea-ai.png"
+    },
+    {
+      "url": "https://www.lovart.ai/",
+      "host": "lovart.ai",
+      "status": "ok",
+      "title": "Lovart – World's First AI Design Agent | Create Pro Designs in Minutes",
+      "siteName": "Lovart",
+      "description": "From logo to full marketing campaign in one conversation. Describe your brand, get everything—logos, packaging, social content, video ads. Join 100K+ creators using the world's first AI Design Agent.",
+      "lang": "en",
+      "themeColor": null,
+      "darkModeSupport": false,
+      "roles": {
+        "background": "#ffffff",
+        "surface": "#f5f5f5",
+        "text": "#000000",
+        "textMuted": "#525251",
+        "primary": "#e1ff67",
+        "onPrimary": "#000000",
+        "focus": "#a1a1a1",
+        "success": "#2ecc71",
+        "warning": "#f28a2e",
+        "danger": "#e74c3c"
+      },
+      "confidence": {
+        "background": 0.96,
+        "surface": 0.93,
+        "text": 0.97,
+        "textMuted": 0.7,
+        "primary": 0.63,
+        "onPrimary": 0.97,
+        "focus": 0.45,
+        "success": 0.45,
+        "warning": 0.45,
+        "danger": 0.45
+      },
+      "notes": [],
+      "brandColors": [
+        "#e1ff67"
+      ],
+      "topColors": [
+        {
+          "hex": "#ffffff",
+          "oklch": "oklch(100.0% 0.000 90)",
+          "score": 137.45,
+          "areaShare": 1.3387,
+          "roles": [
+            "background"
+          ]
+        },
+        {
+          "hex": "#000000",
+          "oklch": "oklch(0.0% 0.000 0)",
+          "score": 84.02,
+          "areaShare": 0.0048,
+          "roles": [
+            "text",
+            "onPrimary"
+          ]
+        },
+        {
+          "hex": "#f5f5f5",
+          "oklch": "oklch(97.0% 0.000 90)",
+          "score": 22.57,
+          "areaShare": 0.2257,
+          "roles": [
+            "surface"
+          ]
+        },
+        {
+          "hex": "#e1ff67",
+          "oklch": "oklch(95.0% 0.178 119)",
+          "score": 4.95,
+          "areaShare": 0.0495,
+          "roles": [
+            "primary"
+          ]
+        },
+        {
+          "hex": "#2c2c2c",
+          "oklch": "oklch(29.3% 0.000 90)",
+          "score": 0.59,
+          "areaShare": 0.0059,
+          "roles": []
+        },
+        {
+          "hex": "#100f09",
+          "oklch": "oklch(16.7% 0.012 100)",
+          "score": 0.34,
+          "areaShare": 0,
+          "roles": []
+        }
+      ],
+      "nHues": 1,
+      "hues": [
+        119
+      ],
+      "lightnessRange": [
+        0,
+        1
+      ],
+      "strategy": "tokens",
+      "fonts": {
+        "heading": "inter, \"inter Fallback\", system-ui, ui-sans-serif, -apple-system, system-ui, \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "body": "inter, \"inter Fallback\", system-ui, ui-sans-serif, -apple-system, system-ui, \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "paragraph": "inter, \"inter Fallback\", system-ui, ui-sans-serif, -apple-system, system-ui, \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "loaded": [
+          "inter 100 900 normal"
+        ]
+      },
+      "screenshot": "competitors/lovart-ai.png"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.midjourney.com/",
+      "host": "midjourney.com",
+      "status": "blocked",
+      "error": "blocked: page title \"Just a moment...\"",
+      "blocked": true,
+      "reason": "page title \"Just a moment...\""
+    },
+    {
+      "url": "https://leonardo.ai/",
+      "host": "leonardo.ai",
+      "status": "blocked",
+      "error": "blocked: page title \"Just a moment...\"",
+      "blocked": true,
+      "reason": "page title \"Just a moment...\""
+    },
+    {
+      "url": "https://jimeng.jianying.com/",
+      "host": "jimeng.jianying.com",
+      "status": "error",
+      "error": "Timeout 45000ms exceeded",
+      "blocked": false
+    }
+  ]
+}

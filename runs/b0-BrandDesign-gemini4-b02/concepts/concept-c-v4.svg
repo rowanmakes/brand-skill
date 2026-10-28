@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-c4">
+  <title id="title-c4">矩台 KADR — Concept C (Custom 矩 Monogram) v4</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left radical 矢: exact 0/45/90 deg geometry, open top-left 45-deg 撇 stroke, 28-unit gap before 巨 -->
+    <path id="radical-shi" d="M 56 28 H 88 L 72 44 H 112 V 72 H 84 V 114 H 112 V 142 H 84 L 112 170 V 206 L 80 174 V 188 L 40 228 H 20 V 204 L 52 172 V 142 H 20 V 114 H 52 V 72 H 44 L 28 88 H 20 V 64 Z"/>
+    <!-- Right radical 巨: 28-unit frame at x=140..236 with 28-unit open inner counter (114..142) -->
+    <path id="radical-ju" d="M 140 28 H 208 L 236 56 V 60 H 168 V 88 H 228 V 168 H 168 V 196 H 236 V 228 H 140 Z M 168 114 V 142 H 200 V 114 Z"/>
+  </g>
+</svg>

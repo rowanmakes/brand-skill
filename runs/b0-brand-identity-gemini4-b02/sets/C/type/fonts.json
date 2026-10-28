@@ -1,0 +1,27 @@
+{
+  "display": {
+    "family": "WDXL Lubrifont SC",
+    "file": "/home/dev/.cache/brand-identity/fonts/google/ofl/wdxllubrifontsc/WDXLLubrifontSC-Regular.ttf",
+    "location": {
+      "wght": 400
+    },
+    "weights": [
+      400
+    ],
+    "features": []
+  },
+  "text": {
+    "family": "Noto Sans SC",
+    "file": "/home/dev/.cache/brand-identity/fonts/instances/NotoSansSC-38125a9d4bab54d9.ttf",
+    "location": {
+      "wght": 400
+    },
+    "weights": [
+      400,
+      700
+    ],
+    "features": [
+      "tnum"
+    ]
+  }
+}

@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.2 · 2026-10-28
+
+- 补跑 B0 的 B02（AI 生图工具），两个底座 × Gemini 4，Codex 评审；结论并入 `runs/b0-summary.md`。
+- B1-r1：按字标草案把用户喜欢的乙A 造字、乙C 图标、甲A 图形各推成黑白方向（`runs/b1-r1-banshan/`），Codex 对照六条规则评审。
+- `docs/wordmark.md` 改为 r2：误读按证据记、不凑数；专属性与读字分开检查；小尺寸区间要连续、英文单独设最小墨高。
+
 ## v0.1 · 2026-10-28
 
 - 改由 Claude 用 Orca 编排：Gemini 4 做品牌，GLM 做脚本，Codex 做评审；B0 不再等 E3。

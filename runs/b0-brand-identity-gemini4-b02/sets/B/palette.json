@@ -1,0 +1,1185 @@
+{
+  "schema": "brand-identity/palette@1",
+  "name": "Proof Table",
+  "direction": "中性冷白校样纸底上的松烟深墨，配一道高饱和朱砂校对红。",
+  "brand": [
+    {
+      "id": "brand-1",
+      "name": "松烟深墨",
+      "hex": "#1e2422",
+      "source": "chosen",
+      "locked": true,
+      "usage": "字标主体、标题与工作台主框架",
+      "print": {
+        "lab_d50": [
+          13.5,
+          -3.2,
+          0.4
+        ],
+        "cmyk": null,
+        "pantone_ref": null
+      }
+    },
+    {
+      "id": "brand-2",
+      "name": "朱砂校红",
+      "hex": "#b81d33",
+      "source": "chosen",
+      "locked": true,
+      "usage": "校样基准尺、精修批注与关键操作锚点",
+      "print": {
+        "lab_d50": [
+          40.8,
+          59.9,
+          30.6
+        ],
+        "cmyk": null,
+        "pantone_ref": null
+      }
+    }
+  ],
+  "scales": {
+    "primary": {
+      "anchor": "950",
+      "steps": {
+        "50": "#f5f8f7",
+        "100": "#e9f0ee",
+        "200": "#d7e0dd",
+        "300": "#c0c9c6",
+        "400": "#a4aca9",
+        "500": "#909996",
+        "600": "#747c79",
+        "700": "#5c6562",
+        "800": "#4a514f",
+        "900": "#3b4340",
+        "950": "#1e2422"
+      }
+    },
+    "neutral": {
+      "tint_of": "none",
+      "steps": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e6e6e6",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#555555",
+        "700": "#414141",
+        "800": "#2b2b2b",
+        "900": "#1c1c1c",
+        "950": "#0f0f0f"
+      }
+    },
+    "accent": {
+      "anchor": "700",
+      "steps": {
+        "50": "#fff5f4",
+        "100": "#ffe9e8",
+        "200": "#fed2d0",
+        "300": "#feb0ae",
+        "400": "#f18989",
+        "500": "#ef656a",
+        "600": "#dc2d43",
+        "700": "#b81d33",
+        "800": "#9c0e27",
+        "900": "#830f20",
+        "950": "#471618"
+      }
+    },
+    "success": {
+      "hue": 170.0,
+      "steps": {
+        "50": "#ecfcf5",
+        "100": "#d6f8eb",
+        "200": "#98f4d5",
+        "300": "#66e2bc",
+        "400": "#3fc6a0",
+        "500": "#2bb28e",
+        "600": "#0d9373",
+        "700": "#08795e",
+        "800": "#06644d",
+        "900": "#045440",
+        "950": "#073025"
+      }
+    },
+    "warning": {
+      "hue": 70.0,
+      "steps": {
+        "50": "#fff6ec",
+        "100": "#ffebd6",
+        "200": "#f9d9b4",
+        "300": "#f3bd7f",
+        "400": "#e59b37",
+        "500": "#cf8925",
+        "600": "#ad6e0a",
+        "700": "#8f5a06",
+        "800": "#764a04",
+        "900": "#633d03",
+        "950": "#3a2305"
+      }
+    },
+    "danger": {
+      "hue": 34.0,
+      "steps": {
+        "50": "#fff5f3",
+        "100": "#ffe9e4",
+        "200": "#fed3c9",
+        "300": "#feb3a1",
+        "400": "#fe856a",
+        "500": "#f86342",
+        "600": "#d54525",
+        "700": "#af391f",
+        "800": "#922e17",
+        "900": "#7a2613",
+        "950": "#47170d"
+      }
+    },
+    "info": {
+      "hue": 250.0,
+      "steps": {
+        "50": "#f2f8ff",
+        "100": "#e3f0ff",
+        "200": "#c7e2fe",
+        "300": "#9ecdfe",
+        "400": "#66b2fd",
+        "500": "#3e9ef7",
+        "600": "#2681d2",
+        "700": "#196aaf",
+        "800": "#125792",
+        "900": "#0f487a",
+        "950": "#0c2a46"
+      }
+    }
+  },
+  "modes": {
+    "light": {
+      "background": "#f5f5f3",
+      "surface": "#ffffff",
+      "surfaceAlt": "#ebebe9",
+      "border": "#d4d4cf",
+      "text": "#1c1c1c",
+      "textMuted": "#555555",
+      "primary": "#1e2422",
+      "onPrimary": "#ffffff",
+      "accent": "#b81d33",
+      "onAccent": "#ffffff",
+      "link": "#b81d33",
+      "focus": "#b81d33",
+      "success": "#08795e",
+      "warning": "#8f5a06",
+      "danger": "#af391f",
+      "info": "#196aaf"
+    },
+    "dark": {
+      "background": "#141615",
+      "surface": "#2b2b2b",
+      "surfaceAlt": "#414141",
+      "border": "#555555",
+      "text": "#f3f3f3",
+      "textMuted": "#d4d4d4",
+      "primary": "#ef656a",
+      "onPrimary": "#0f0f0f",
+      "accent": "#ef656a",
+      "onAccent": "#0f0f0f",
+      "link": "#ef656a",
+      "focus": "#ef656a",
+      "success": "#3fc6a0",
+      "warning": "#e59b37",
+      "danger": "#fe856a",
+      "info": "#66b2fd"
+    }
+  },
+  "rationale": [],
+  "feels": [
+    "考究",
+    "笃定",
+    "编辑感"
+  ],
+  "audit": {
+    "schema": "brand-identity/audit@1",
+    "tool": "brand-identity/palette_audit.py",
+    "passed": true,
+    "context": "identity",
+    "skipped": [
+      "contrast.light.text-on-surface",
+      "contrast.light.text-on-surfaceAlt",
+      "contrast.light.textMuted-on-surface",
+      "contrast.light.textMuted-on-surfaceAlt",
+      "contrast.light.link-on-surface",
+      "contrast.dark.text-on-surface",
+      "contrast.dark.text-on-surfaceAlt",
+      "contrast.dark.textMuted-on-surface",
+      "contrast.dark.textMuted-on-surfaceAlt",
+      "contrast.dark.link-on-surface"
+    ],
+    "counts": {
+      "gate": 0,
+      "warn": 1,
+      "info": 5
+    },
+    "metrics": {
+      "dark_surface_white_ratio": 18.18,
+      "lightness_range": [
+        13.6,
+        40.1
+      ],
+      "brand_hues": 1,
+      "hue_entropy": 4.59,
+      "ou_luo_primary_accent": -0.68,
+      "neutral_chroma": [
+        0.0,
+        0.0
+      ]
+    },
+    "contrast": [
+      {
+        "mode": "light",
+        "fg": "text",
+        "bg": "background",
+        "fg_hex": "#1c1c1c",
+        "bg_hex": "#f5f5f3",
+        "ratio": 15.61,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 86.2
+      },
+      {
+        "mode": "light",
+        "fg": "textMuted",
+        "bg": "background",
+        "fg_hex": "#555555",
+        "bg_hex": "#f5f5f3",
+        "ratio": 6.83,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 60.3
+      },
+      {
+        "mode": "light",
+        "fg": "onPrimary",
+        "bg": "primary",
+        "fg_hex": "#ffffff",
+        "bg_hex": "#1e2422",
+        "ratio": 15.78,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 86.4
+      },
+      {
+        "mode": "light",
+        "fg": "onAccent",
+        "bg": "accent",
+        "fg_hex": "#ffffff",
+        "bg_hex": "#b81d33",
+        "ratio": 6.44,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 59.9
+      },
+      {
+        "mode": "light",
+        "fg": "link",
+        "bg": "background",
+        "fg_hex": "#b81d33",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.9,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 56.4
+      },
+      {
+        "mode": "light",
+        "fg": "focus",
+        "bg": "background",
+        "fg_hex": "#b81d33",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.9,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 56.4
+      },
+      {
+        "mode": "light",
+        "fg": "focus",
+        "bg": "surface",
+        "fg_hex": "#b81d33",
+        "bg_hex": "#ffffff",
+        "ratio": 6.44,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 59.9
+      },
+      {
+        "mode": "light",
+        "fg": "success",
+        "bg": "background",
+        "fg_hex": "#08795e",
+        "bg_hex": "#f5f5f3",
+        "ratio": 4.92,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 51.5
+      },
+      {
+        "mode": "light",
+        "fg": "warning",
+        "bg": "background",
+        "fg_hex": "#8f5a06",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.3,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 53.5
+      },
+      {
+        "mode": "light",
+        "fg": "danger",
+        "bg": "background",
+        "fg_hex": "#af391f",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.61,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 55.0
+      },
+      {
+        "mode": "light",
+        "fg": "info",
+        "bg": "background",
+        "fg_hex": "#196aaf",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.17,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 52.8
+      },
+      {
+        "mode": "light",
+        "fg": "success",
+        "bg": "background",
+        "fg_hex": "#08795e",
+        "bg_hex": "#f5f5f3",
+        "ratio": 4.92,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 51.5
+      },
+      {
+        "mode": "light",
+        "fg": "warning",
+        "bg": "background",
+        "fg_hex": "#8f5a06",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.3,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 53.5
+      },
+      {
+        "mode": "light",
+        "fg": "danger",
+        "bg": "background",
+        "fg_hex": "#af391f",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.61,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 55.0
+      },
+      {
+        "mode": "light",
+        "fg": "info",
+        "bg": "background",
+        "fg_hex": "#196aaf",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.17,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 52.8
+      },
+      {
+        "mode": "light",
+        "fg": "primary",
+        "bg": "background",
+        "fg_hex": "#1e2422",
+        "bg_hex": "#f5f5f3",
+        "ratio": 14.46,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 82.9
+      },
+      {
+        "mode": "light",
+        "fg": "accent",
+        "bg": "background",
+        "fg_hex": "#b81d33",
+        "bg_hex": "#f5f5f3",
+        "ratio": 5.9,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 56.4
+      },
+      {
+        "mode": "light",
+        "fg": "link",
+        "bg": "text",
+        "fg_hex": "#b81d33",
+        "bg_hex": "#1c1c1c",
+        "ratio": 2.65,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "warn",
+        "pass": false,
+        "delta_l": 29.8
+      },
+      {
+        "mode": "light",
+        "fg": "border",
+        "bg": "background",
+        "fg_hex": "#d4d4cf",
+        "bg_hex": "#f5f5f3",
+        "ratio": 1.36,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "info",
+        "pass": false,
+        "delta_l": 11.7
+      },
+      {
+        "mode": "dark",
+        "fg": "text",
+        "bg": "background",
+        "fg_hex": "#f3f3f3",
+        "bg_hex": "#141615",
+        "ratio": 16.38,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 88.8
+      },
+      {
+        "mode": "dark",
+        "fg": "textMuted",
+        "bg": "background",
+        "fg_hex": "#d4d4d4",
+        "bg_hex": "#141615",
+        "ratio": 12.26,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 77.9
+      },
+      {
+        "mode": "dark",
+        "fg": "onPrimary",
+        "bg": "primary",
+        "fg_hex": "#0f0f0f",
+        "bg_hex": "#ef656a",
+        "ratio": 6.15,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 56.2
+      },
+      {
+        "mode": "dark",
+        "fg": "onAccent",
+        "bg": "accent",
+        "fg_hex": "#0f0f0f",
+        "bg_hex": "#ef656a",
+        "ratio": 6.15,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 56.2
+      },
+      {
+        "mode": "dark",
+        "fg": "link",
+        "bg": "background",
+        "fg_hex": "#ef656a",
+        "bg_hex": "#141615",
+        "ratio": 5.83,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 53.5
+      },
+      {
+        "mode": "dark",
+        "fg": "focus",
+        "bg": "background",
+        "fg_hex": "#ef656a",
+        "bg_hex": "#141615",
+        "ratio": 5.83,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 53.5
+      },
+      {
+        "mode": "dark",
+        "fg": "focus",
+        "bg": "surface",
+        "fg_hex": "#ef656a",
+        "bg_hex": "#2b2b2b",
+        "ratio": 4.54,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 43.0
+      },
+      {
+        "mode": "dark",
+        "fg": "success",
+        "bg": "background",
+        "fg_hex": "#3fc6a0",
+        "bg_hex": "#141615",
+        "ratio": 8.48,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 65.2
+      },
+      {
+        "mode": "dark",
+        "fg": "warning",
+        "bg": "background",
+        "fg_hex": "#e59b37",
+        "bg_hex": "#141615",
+        "ratio": 7.86,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 62.7
+      },
+      {
+        "mode": "dark",
+        "fg": "danger",
+        "bg": "background",
+        "fg_hex": "#fe856a",
+        "bg_hex": "#141615",
+        "ratio": 7.6,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 61.7
+      },
+      {
+        "mode": "dark",
+        "fg": "info",
+        "bg": "background",
+        "fg_hex": "#66b2fd",
+        "bg_hex": "#141615",
+        "ratio": 8.09,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "gate",
+        "pass": true,
+        "delta_l": 63.7
+      },
+      {
+        "mode": "dark",
+        "fg": "success",
+        "bg": "background",
+        "fg_hex": "#3fc6a0",
+        "bg_hex": "#141615",
+        "ratio": 8.48,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 65.2
+      },
+      {
+        "mode": "dark",
+        "fg": "warning",
+        "bg": "background",
+        "fg_hex": "#e59b37",
+        "bg_hex": "#141615",
+        "ratio": 7.86,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 62.7
+      },
+      {
+        "mode": "dark",
+        "fg": "danger",
+        "bg": "background",
+        "fg_hex": "#fe856a",
+        "bg_hex": "#141615",
+        "ratio": 7.6,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 61.7
+      },
+      {
+        "mode": "dark",
+        "fg": "info",
+        "bg": "background",
+        "fg_hex": "#66b2fd",
+        "bg_hex": "#141615",
+        "ratio": 8.09,
+        "target": 4.5,
+        "kind": "text",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 63.7
+      },
+      {
+        "mode": "dark",
+        "fg": "primary",
+        "bg": "background",
+        "fg_hex": "#ef656a",
+        "bg_hex": "#141615",
+        "ratio": 5.83,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 53.5
+      },
+      {
+        "mode": "dark",
+        "fg": "accent",
+        "bg": "background",
+        "fg_hex": "#ef656a",
+        "bg_hex": "#141615",
+        "ratio": 5.83,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "warn",
+        "pass": true,
+        "delta_l": 53.5
+      },
+      {
+        "mode": "dark",
+        "fg": "link",
+        "bg": "text",
+        "fg_hex": "#ef656a",
+        "bg_hex": "#f3f3f3",
+        "ratio": 2.81,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "info",
+        "pass": false,
+        "delta_l": 35.3
+      },
+      {
+        "mode": "dark",
+        "fg": "border",
+        "bg": "background",
+        "fg_hex": "#555555",
+        "bg_hex": "#141615",
+        "ratio": 2.44,
+        "target": 3.0,
+        "kind": "ui",
+        "severity": "info",
+        "pass": false,
+        "delta_l": 29.1
+      }
+    ],
+    "cvd": [
+      {
+        "mode": "light",
+        "pair": [
+          "primary",
+          "accent"
+        ],
+        "kind": "protan",
+        "hex": [
+          "#1e2422",
+          "#b81d33"
+        ],
+        "sim": [
+          "#242322",
+          "#4f4a32"
+        ],
+        "delta_e2000": 16.52,
+        "pass": true
+      },
+      {
+        "mode": "light",
+        "pair": [
+          "primary",
+          "accent"
+        ],
+        "kind": "deutan",
+        "hex": [
+          "#1e2422",
+          "#b81d33"
+        ],
+        "sim": [
+          "#222222",
+          "#756a2e"
+        ],
+        "delta_e2000": 30.97,
+        "pass": true
+      },
+      {
+        "mode": "light",
+        "pair": [
+          "primary",
+          "accent"
+        ],
+        "kind": "tritan",
+        "hex": [
+          "#1e2422",
+          "#b81d33"
+        ],
+        "sim": [
+          "#1f2326",
+          "#b8193f"
+        ],
+        "delta_e2000": 35.15,
+        "pass": true
+      },
+      {
+        "mode": "light",
+        "pair": [
+          "success",
+          "danger"
+        ],
+        "kind": "protan",
+        "hex": [
+          "#08795e",
+          "#af391f"
+        ],
+        "sim": [
+          "#75705d",
+          "#5b511b"
+        ],
+        "delta_e2000": 15.55,
+        "pass": true
+      },
+      {
+        "mode": "light",
+        "pair": [
+          "success",
+          "danger"
+        ],
+        "kind": "deutan",
+        "hex": [
+          "#08795e",
+          "#af391f"
+        ],
+        "sim": [
+          "#696760",
+          "#796b19"
+        ],
+        "delta_e2000": 19.36,
+        "pass": true
+      },
+      {
+        "mode": "light",
+        "pair": [
+          "success",
+          "danger"
+        ],
+        "kind": "tritan",
+        "hex": [
+          "#08795e",
+          "#af391f"
+        ],
+        "sim": [
+          "#2b7287",
+          "#b13249"
+        ],
+        "delta_e2000": 51.0,
+        "pass": true
+      },
+      {
+        "mode": "light",
+        "pair": [
+          "link",
+          "text"
+        ],
+        "kind": "protan",
+        "hex": [
+          "#b81d33",
+          "#1c1c1c"
+        ],
+        "sim": [
+          "#4f4a32",
+          "#1c1c1c"
+        ],
+        "delta_e2000": 18.64,
+        "pass": true
+      },
+      {
+        "mode": "light",
+        "pair": [
+          "link",
+          "text"
+        ],
+        "kind": "deutan",
+        "hex": [
+          "#b81d33",
+          "#1c1c1c"
+        ],
+        "sim": [
+          "#756a2e",
+          "#1c1c1c"
+        ],
+        "delta_e2000": 32.4,
+        "pass": true
+      },
+      {
+        "mode": "light",
+        "pair": [
+          "link",
+          "text"
+        ],
+        "kind": "tritan",
+        "hex": [
+          "#b81d33",
+          "#1c1c1c"
+        ],
+        "sim": [
+          "#b8193f",
+          "#1c1c1c"
+        ],
+        "delta_e2000": 34.42,
+        "pass": true
+      },
+      {
+        "mode": "dark",
+        "pair": [
+          "success",
+          "danger"
+        ],
+        "kind": "protan",
+        "hex": [
+          "#3fc6a0",
+          "#fe856a"
+        ],
+        "sim": [
+          "#c0b99e",
+          "#a39867"
+        ],
+        "delta_e2000": 11.7,
+        "pass": true
+      },
+      {
+        "mode": "dark",
+        "pair": [
+          "success",
+          "danger"
+        ],
+        "kind": "deutan",
+        "hex": [
+          "#3fc6a0",
+          "#fe856a"
+        ],
+        "sim": [
+          "#aeaca3",
+          "#c1b168"
+        ],
+        "delta_e2000": 17.36,
+        "pass": true
+      },
+      {
+        "mode": "dark",
+        "pair": [
+          "success",
+          "danger"
+        ],
+        "kind": "tritan",
+        "hex": [
+          "#3fc6a0",
+          "#fe856a"
+        ],
+        "sim": [
+          "#5dbddb",
+          "#ff7f91"
+        ],
+        "delta_e2000": 56.7,
+        "pass": true
+      },
+      {
+        "mode": "dark",
+        "pair": [
+          "link",
+          "text"
+        ],
+        "kind": "protan",
+        "hex": [
+          "#ef656a",
+          "#f3f3f3"
+        ],
+        "sim": [
+          "#868069",
+          "#f3f3f3"
+        ],
+        "delta_e2000": 32.72,
+        "pass": true
+      },
+      {
+        "mode": "dark",
+        "pair": [
+          "link",
+          "text"
+        ],
+        "kind": "deutan",
+        "hex": [
+          "#ef656a",
+          "#f3f3f3"
+        ],
+        "sim": [
+          "#a99d67",
+          "#f3f3f3"
+        ],
+        "delta_e2000": 28.11,
+        "pass": true
+      },
+      {
+        "mode": "dark",
+        "pair": [
+          "link",
+          "text"
+        ],
+        "kind": "tritan",
+        "hex": [
+          "#ef656a",
+          "#f3f3f3"
+        ],
+        "sim": [
+          "#f06278",
+          "#f3f3f3"
+        ],
+        "delta_e2000": 36.01,
+        "pass": true
+      }
+    ],
+    "grounds": [],
+    "extended": null,
+    "findings": [
+      {
+        "id": "contrast.light.link-on-text",
+        "severity": "warn",
+        "roles": [
+          "light.link",
+          "light.text"
+        ],
+        "measured": 2.65,
+        "threshold": 3.0,
+        "message": "light: link #b81d33 on text #1c1c1c is 2.65:1, below 3.0:1 (links distinguishable from body text without underline (WCAG G183); WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.link",
+          "from": "#b81d33",
+          "to": "#dc2d43",
+          "how": "use accent-600 (same scale)",
+          "ratio_after": 3.65
+        }
+      },
+      {
+        "id": "contrast.light.border-on-background",
+        "severity": "info",
+        "roles": [
+          "light.border",
+          "light.background"
+        ],
+        "measured": 1.36,
+        "threshold": 3.0,
+        "message": "light: border #d4d4cf on background #f5f5f3 is 1.36:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.border",
+          "from": "#d4d4cf",
+          "to": "#8d8d89",
+          "how": "darken by OKLCH L -0.22, same hue",
+          "ratio_after": 3.05
+        }
+      },
+      {
+        "id": "contrast.dark.link-on-text",
+        "severity": "info",
+        "roles": [
+          "dark.link",
+          "dark.text"
+        ],
+        "measured": 2.81,
+        "threshold": 3.0,
+        "message": "dark: link #ef656a on text #f3f3f3 is 2.81:1, below 3.0:1 (underline links in dark mode (WCAG G183: without underline a link needs 3:1 against body text); WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.link",
+          "from": "#ef656a",
+          "to": "#dc2d43",
+          "how": "use accent-600 (same scale)",
+          "ratio_after": 4.21
+        }
+      },
+      {
+        "id": "contrast.dark.border-on-background",
+        "severity": "info",
+        "roles": [
+          "dark.border",
+          "dark.background"
+        ],
+        "measured": 2.44,
+        "threshold": 3.0,
+        "message": "dark: border #555555 on background #141615 is 2.44:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.border",
+          "from": "#555555",
+          "to": "#737373",
+          "how": "use neutral-500 (same scale)",
+          "ratio_after": 3.83
+        }
+      },
+      {
+        "id": "gamut.brand-2",
+        "severity": "info",
+        "roles": [
+          "brand-2"
+        ],
+        "measured": 0.92,
+        "threshold": 0.9,
+        "message": "#b81d33 sits at the sRGB gamut edge (92% of max chroma); vivid colours like this often fall outside CMYK process gamut: specify Lab D50 + tolerance, check with the printer, consider a spot colour",
+        "suggested_fix": null
+      },
+      {
+        "id": "harmony.primary-accent",
+        "severity": "info",
+        "roles": [
+          "light.primary",
+          "light.accent"
+        ],
+        "measured": -0.68,
+        "threshold": -0.3,
+        "message": "Ou-Luo two-colour model scores #1e2422 + #b81d33 at -0.68 (negative = less harmonious on a grey CRT test, no context): model signal only; the pairing table in references/pairing.md takes precedence",
+        "suggested_fix": null
+      }
+    ],
+    "partial": false
+  },
+  "build": {
+    "generator": "brand-identity/palette_build.py",
+    "seed": "#1e2422",
+    "accent": {
+      "hex": "#b81d33",
+      "how": "given",
+      "strategy": null
+    },
+    "neutral": {
+      "tint_hue": null,
+      "chroma": 0.005
+    },
+    "grounds": {
+      "light": "#f5f5f3",
+      "dark": "#141615"
+    },
+    "adjustments": [
+      {
+        "role": "neutral",
+        "reason": "neutrals follow the dark ground #141615 (grey: untinted) so surfaces stay on its side of the colour wheel; pass --neutral-tint primary to tint by the primary"
+      },
+      {
+        "mode": "light",
+        "role": "link",
+        "scale": "primary",
+        "from_step": "950",
+        "to_step": "accent",
+        "reason": "achromatic primary: uses the accent scale"
+      },
+      {
+        "mode": "light",
+        "role": "focus",
+        "scale": "primary",
+        "from_step": "950",
+        "to_step": "accent",
+        "reason": "achromatic primary: uses the accent scale"
+      },
+      {
+        "mode": "dark",
+        "role": "accent",
+        "scale": "accent",
+        "from_step": "700",
+        "to_step": "500",
+        "reason": "step 700 is below 4.5:1 on the dark background (lightened derivative)"
+      },
+      {
+        "mode": "dark",
+        "role": "primary",
+        "scale": "primary",
+        "from_step": "950",
+        "to_step": "accent",
+        "reason": "the primary #1e2422 is near-black grey (OKLCH C < 0.03); it stays the identity colour, but in dark mode buttons use the accent"
+      },
+      {
+        "mode": "dark",
+        "role": "link",
+        "scale": "primary",
+        "from_step": "950",
+        "to_step": "accent",
+        "reason": "achromatic primary: uses the accent scale"
+      },
+      {
+        "mode": "dark",
+        "role": "focus",
+        "scale": "primary",
+        "from_step": "950",
+        "to_step": "accent",
+        "reason": "achromatic primary: uses the accent scale"
+      }
+    ],
+    "warnings": [],
+    "semantic_shifts": [
+      {
+        "scale": "danger",
+        "hue_from": 27.0,
+        "hue_to": 34.0,
+        "min_delta_e2000": 10.06,
+        "reason": "role colour too close to a brand role (CIEDE2000 < 10)"
+      }
+    ]
+  }
+}

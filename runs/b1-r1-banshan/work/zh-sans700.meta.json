@@ -1,0 +1,41 @@
+{
+ "text": "\u534a\u5c71\u70d8\u7119",
+ "font": "Noto Sans SC",
+ "weight": 700,
+ "cap_height": 100.0,
+ "x_height": 74.08,
+ "baseline_y": 100,
+ "cap_top_y": 0,
+ "glyphs": [
+  {
+   "char": "\u534a",
+   "glyph": "uni534A",
+   "x": 0.0,
+   "advance": 136.43
+  },
+  {
+   "char": "\u5c71",
+   "glyph": "uni2F2D",
+   "x": 147.34,
+   "advance": 136.43
+  },
+  {
+   "char": "\u70d8",
+   "glyph": "uni70D8",
+   "x": 294.68,
+   "advance": 136.43
+  },
+  {
+   "char": "\u7119",
+   "glyph": "uni7119",
+   "x": 442.02,
+   "advance": 136.43
+  }
+ ],
+ "ink_bbox": [
+  6.41,
+  -16.92,
+  574.35,
+  112.14
+ ]
+}

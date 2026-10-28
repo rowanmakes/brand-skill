@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-c">
+  <title id="title-c">矩台 KADR — Concept C (Crop-Rule Monogram) v1</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Outer carpenter's crop frame (top + left + bottom of 巨 / workbench frame) -->
+    <path id="crop-frame" d="M 28 28 H 204 L 176 56 H 56 V 200 H 200 V 172 L 228 144 V 228 H 28 Z"/>
+    <!-- Inner K + 巨 counter structure: vertical spine + 45-deg K arms locking into the frame -->
+    <path id="inner-k" d="M 84 76 H 112 V 116 L 152 76 H 192 L 140 128 L 192 180 H 152 L 112 140 V 180 H 84 Z"/>
+  </g>
+</svg>

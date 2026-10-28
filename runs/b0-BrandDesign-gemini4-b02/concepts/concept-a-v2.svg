@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-a2">
+  <title id="title-a2">矩台 KADR — Concept A (Calibrated K) v2</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left carpenter's square (⌜) forming the vertical stem and top calibration rule of K -->
+    <path id="carpenter-square" d="M 28 28 H 132 L 92 68 H 76 V 228 H 28 Z"/>
+    <!-- Right 45-degree K chevron carved from the platen -->
+    <path id="k-chevron" d="M 96 128 L 196 28 H 228 V 68 L 168 128 L 228 188 V 228 H 196 Z"/>
+    <!-- Right platen calibration diamond nestled in the open counter -->
+    <path id="platen-node" d="M 200 128 L 228 100 V 156 Z"/>
+  </g>
+</svg>

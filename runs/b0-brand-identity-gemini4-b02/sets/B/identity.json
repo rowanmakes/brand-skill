@@ -1,0 +1,339 @@
+{
+  "schema": "brand-identity/identity@1",
+  "brand": {
+    "name": "光桌",
+    "tagline": "专业创作者的 AI 生图与精修工作台",
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "doc_lang": "zh",
+    "sector": "AI 视觉生成与精修桌面工作台",
+    "numbers": true,
+    "copy": {
+      "sentence": {
+        "zh": "队列中 12 组 4096×4096 批次已完成渲染，双栏像素级比对与局部重绘就绪。",
+        "en": "Batch 048 rendered in 3.2s at 4096px — compare 4 seeds side by side and inpaint."
+      },
+      "nav": [
+        "队列",
+        "比对",
+        "精修",
+        "参数"
+      ],
+      "cta": "新建批次"
+    }
+  },
+  "set": {
+    "id": "B",
+    "name": "印前校样 · Proof Table",
+    "recommended": false,
+    "mechanism": "传统印前校样台（Proof Table）：高对比度衬线字标配一道朱砂红校对标尺，把暗房审片与印前校样的严谨秩序引入 AI 精修。",
+    "expression_move": "字标下方贯穿并带字间校对刻度的唯一一道朱砂红校样基准尺。",
+    "differs_by": "在清一色无衬线体与暗黑科技风的 AI 生图工具中，唯一采用人文衬线标题（Noto Serif SC）与纸本墨色+朱砂校对红的纯字标方案，直击反感廉价科技感的商业插画师。"
+  },
+  "axes": {
+    "warm_cool": -1,
+    "classic_contemporary": -2,
+    "quiet_loud": -2
+  },
+  "components": {
+    "logo": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    },
+    "type": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    },
+    "palette": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    }
+  },
+  "type": {
+    "pairing_mode": "contrast",
+    "display": {
+      "family": "Noto Serif SC",
+      "source": "google",
+      "license": "OFL-1.1",
+      "weights": [
+        700
+      ],
+      "location": {
+        "wght": 700
+      },
+      "features": [],
+      "case": "as-is",
+      "tracking": 20,
+      "fallback": "Georgia, serif",
+      "file": null
+    },
+    "text": {
+      "family": "Noto Sans SC",
+      "source": "google",
+      "license": "OFL-1.1",
+      "weights": [
+        400,
+        600
+      ],
+      "location": {
+        "wght": 400
+      },
+      "features": [
+        "tnum"
+      ],
+      "case": "as-is",
+      "tracking": 0,
+      "fallback": "system-ui, sans-serif",
+      "file": null
+    },
+    "mono": null
+  },
+  "logo": {
+    "type": "wordmark",
+    "concept": "以印前校样台为原型，「光桌」衬线字标中轴做光学断笔，底部衬以带分栏刻度的朱砂红校样基准尺。",
+    "defect": "16px 小标直接使用衬线「光」字导致细笔画像素丢失（1.38 px²），且大字标横切口过宽切碎了两侧点画；将 16px 小标重构为粗线条校样裁切标尺，并将字标切口收窄至中轴竖笔与字间校样刻度。",
+    "ideas": [
+      "印前校样尺：衬线字标「光桌」配合底部朱砂红校对基准线与首字中轴切口，呈现专业出版级审校感。",
+      "角线裁切字标：在「光」与「桌」四角嵌入印刷裁切角线（Crop Marks），将字标本身变为待精修画幅。",
+      "双重大括号字标：字标两侧以衬线大括号夹持，代表批次生成中的锁定与归档。",
+      "印章阴刻字标：将「光」字上半部做阴刻反转，如同画师完稿后的定稿签章。"
+    ],
+    "symbol": null,
+    "wordmark": {
+      "text": "光桌",
+      "role": "display",
+      "location": null,
+      "tracking": 20,
+      "case": "as-is"
+    },
+    "monogram": null,
+    "lockups": [
+      "horizontal"
+    ],
+    "colors": {
+      "wordmark": "primary",
+      "proof-rule": "accent"
+    },
+    "tags": [],
+    "clear_space": {
+      "unit": "cap-height",
+      "multiple": 1,
+      "inferred": true
+    },
+    "min_size": {
+      "px": 24,
+      "mm": 8
+    }
+  },
+  "palette": "palette.json",
+  "defaults_used": [],
+  "rationale": [
+    {
+      "claim": "Noto Serif SC 仅用于标题与字标（无需承担表格数字），正文配对具备等宽数字的 Noto Sans SC，兼顾人文书卷气与参数面板可读性。",
+      "evidence": "measured",
+      "source": "font_audit.py"
+    },
+    {
+      "claim": "采用纯字标（wordmark-only）结构打破 AI 工具 97% 以上「图标+文字」的定式，并通过 wordmark_detail_svg 赋予专属切口与校样红尺。",
+      "evidence": "practice",
+      "source": "references/ai-defaults.md"
+    }
+  ],
+  "derived": [
+    {
+      "file": "card.png",
+      "requires": [
+        "logo",
+        "type",
+        "palette"
+      ],
+      "inputs_sha256": "e3fda933534bdd054d2c208cc0f4879e780d7ffef6cc3e3f34c1ae1bfebc2f2e"
+    }
+  ],
+  "audit": {
+    "schema": "brand-identity/audit@1",
+    "passed": true,
+    "counts": {
+      "gate": 0,
+      "warn": 1,
+      "info": 11
+    },
+    "findings": [
+      {
+        "id": "palette.contrast.light.link-on-text",
+        "component": "palette",
+        "severity": "warn",
+        "measured": 2.65,
+        "threshold": 3.0,
+        "message": "light: link #b81d33 on text #1c1c1c is 2.65:1, below 3.0:1 (links distinguishable from body text without underline (WCAG G183); WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.link",
+          "from": "#b81d33",
+          "to": "#dc2d43",
+          "how": "use accent-600 (same scale)",
+          "ratio_after": 3.65
+        },
+        "roles": [
+          "light.link",
+          "light.text"
+        ]
+      },
+      {
+        "id": "palette.contrast.light.border-on-background",
+        "component": "palette",
+        "severity": "info",
+        "measured": 1.36,
+        "threshold": 3.0,
+        "message": "light: border #d4d4cf on background #f5f5f3 is 1.36:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.border",
+          "from": "#d4d4cf",
+          "to": "#8d8d89",
+          "how": "darken by OKLCH L -0.22, same hue",
+          "ratio_after": 3.05
+        },
+        "roles": [
+          "light.border",
+          "light.background"
+        ]
+      },
+      {
+        "id": "palette.contrast.dark.link-on-text",
+        "component": "palette",
+        "severity": "info",
+        "measured": 2.81,
+        "threshold": 3.0,
+        "message": "dark: link #ef656a on text #f3f3f3 is 2.81:1, below 3.0:1 (underline links in dark mode (WCAG G183: without underline a link needs 3:1 against body text); WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.link",
+          "from": "#ef656a",
+          "to": "#dc2d43",
+          "how": "use accent-600 (same scale)",
+          "ratio_after": 4.21
+        },
+        "roles": [
+          "dark.link",
+          "dark.text"
+        ]
+      },
+      {
+        "id": "palette.contrast.dark.border-on-background",
+        "component": "palette",
+        "severity": "info",
+        "measured": 2.44,
+        "threshold": 3.0,
+        "message": "dark: border #555555 on background #141615 is 2.44:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.border",
+          "from": "#555555",
+          "to": "#737373",
+          "how": "use neutral-500 (same scale)",
+          "ratio_after": 3.83
+        },
+        "roles": [
+          "dark.border",
+          "dark.background"
+        ]
+      },
+      {
+        "id": "palette.gamut.brand-2",
+        "component": "palette",
+        "severity": "info",
+        "measured": 0.92,
+        "threshold": 0.9,
+        "message": "#b81d33 sits at the sRGB gamut edge (92% of max chroma); vivid colours like this often fall outside CMYK process gamut: specify Lab D50 + tolerance, check with the printer, consider a spot colour",
+        "suggested_fix": null,
+        "roles": [
+          "brand-2"
+        ]
+      },
+      {
+        "id": "palette.harmony.primary-accent",
+        "component": "palette",
+        "severity": "info",
+        "measured": -0.68,
+        "threshold": -0.3,
+        "message": "Ou-Luo two-colour model scores #1e2422 + #b81d33 at -0.68 (negative = less harmonious on a grey CRT test, no context): model signal only; the pairing table in references/pairing.md takes precedence",
+        "suggested_fix": null,
+        "roles": [
+          "light.primary",
+          "light.accent"
+        ]
+      },
+      {
+        "id": "type.display.coverage.en_Latn.extended",
+        "component": "type",
+        "severity": "info",
+        "measured": "97/102",
+        "threshold": "100% auxiliary + punctuation",
+        "message": "Noto Serif SC lacks English auxiliary/punctuation characters: Ĕ Ĭ Ÿ ĕ ĭ",
+        "suggested_fix": "fine if the brand never writes them (loanwords, names); else another family"
+      },
+      {
+        "id": "type.display.coverage.gf-latin-core",
+        "component": "type",
+        "severity": "info",
+        "measured": "223/319",
+        "threshold": "GF Latin Core",
+        "message": "Noto Serif SC misses 96/319 GF Latin Core codepoints (reach beyond the brief's languages)",
+        "suggested_fix": "matters only if the brand may add more Latin-script languages"
+      },
+      {
+        "id": "type.display.web-weight",
+        "component": "type",
+        "severity": "info",
+        "measured": 967,
+        "threshold": null,
+        "message": "Noto Serif SC: ~967 KB WOFF2 for the brief's characters (one variable file, all weights; estimate)",
+        "suggested_fix": null
+      },
+      {
+        "id": "type.text.coverage.en_Latn.extended",
+        "component": "type",
+        "severity": "info",
+        "measured": "97/102",
+        "threshold": "100% auxiliary + punctuation",
+        "message": "Noto Sans SC lacks English auxiliary/punctuation characters: Ĕ Ĭ Ÿ ĕ ĭ",
+        "suggested_fix": "fine if the brand never writes them (loanwords, names); else another family"
+      },
+      {
+        "id": "type.text.coverage.gf-latin-core",
+        "component": "type",
+        "severity": "info",
+        "measured": "223/319",
+        "threshold": "GF Latin Core",
+        "message": "Noto Sans SC misses 96/319 GF Latin Core codepoints (reach beyond the brief's languages)",
+        "suggested_fix": "matters only if the brand may add more Latin-script languages"
+      },
+      {
+        "id": "type.text.web-weight",
+        "component": "type",
+        "severity": "info",
+        "measured": 739,
+        "threshold": null,
+        "message": "Noto Sans SC: ~739 KB WOFF2 for the brief's characters (one variable file, all weights; estimate)",
+        "suggested_fix": null
+      }
+    ],
+    "defaults": {
+      "matched": []
+    }
+  },
+  "palette_build": {
+    "strategy": null,
+    "accent": null,
+    "light_bg": "#f5f5f3",
+    "dark_bg": "#141615",
+    "neutral_tint": null,
+    "neutral_chroma": 0.005,
+    "extra": []
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-c2">
+  <title id="title-c2">矩台 KADR — Concept C (Custom 矩 Monogram) v2</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left radical 矢 constructed on a 24-unit stroke grid with 45-deg legs -->
+    <path id="radical-shi" d="M 44 28 H 72 L 56 60 H 112 V 84 H 84 V 120 H 116 V 144 H 82 L 116 178 V 212 L 72 168 L 48 228 H 22 L 54 144 H 20 V 120 H 58 V 84 H 34 L 20 84 L 44 28 Z"/>
+    <!-- Right radical 巨 constructed as a precision carpenter's square + vernier jaw with 45-deg top-right bevel -->
+    <path id="radical-ju" d="M 132 28 H 208 L 232 52 V 60 H 160 V 92 H 224 V 164 H 160 V 196 H 232 V 228 H 132 Z M 160 116 V 140 H 198 V 116 Z"/>
+  </g>
+</svg>

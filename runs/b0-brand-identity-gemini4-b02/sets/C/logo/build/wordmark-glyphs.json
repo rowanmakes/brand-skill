@@ -1,0 +1,37 @@
+{
+ "units": "wordmark: cap height 100, cap top y=0, baseline y=100, x from the pen origin; index = data-glyph",
+ "text": "光桌",
+ "glyphs": [
+  {
+   "index": 1,
+   "char": "光",
+   "x0": 6.89,
+   "x1": 100.7,
+   "pen_x": 0.0,
+   "advance": 107.59,
+   "cap_top": 0,
+   "baseline": 100,
+   "stems": [
+    [
+     23.21,
+     36.29
+    ],
+    [
+     71.31,
+     84.25
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "char": "桌",
+   "x0": 120.11,
+   "x1": 213.92,
+   "pen_x": 113.22,
+   "advance": 107.59,
+   "cap_top": 0,
+   "baseline": 100,
+   "stems": []
+  }
+ ]
+}

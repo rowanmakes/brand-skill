@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1420 256" width="1420" height="256" role="img" aria-labelledby="title-c2-lock">
+  <title id="title-c2-lock">矩台 KADR — Concept C Custom Geometric Wordmark v2</title>
+  <g id="wordmark" fill="#111111" fill-rule="evenodd">
+    <!-- Custom 矩 (x=20..232) -->
+    <path id="char-ju-left" d="M 44 28 H 72 L 56 60 H 112 V 84 H 84 V 120 H 116 V 144 H 82 L 116 178 V 212 L 72 168 L 48 228 H 22 L 54 144 H 20 V 120 H 58 V 84 H 20 L 44 28 Z"/>
+    <path id="char-ju-right" d="M 132 28 H 208 L 232 52 V 60 H 160 V 92 H 224 V 164 H 160 V 196 H 232 V 228 H 132 Z M 160 116 V 140 H 198 V 116 Z"/>
+    <!-- Custom 台 (x=268..468): top geometric prism 厶 + bottom viewfinder frame 口 with 45-deg corner bevel -->
+    <path id="char-tai-top" d="M 340 28 H 376 L 320 92 H 412 L 384 64 H 418 L 464 110 L 444 126 L 428 116 H 276 L 268 92 Z"/>
+    <path id="char-tai-bottom" d="M 284 136 H 428 L 452 160 V 228 H 284 Z M 312 164 V 200 H 424 V 164 Z"/>
+    <!-- Divider calibration tick (x=512..528) -->
+    <path id="divider-dot" d="M 508 116 H 532 V 140 H 508 Z"/>
+    <!-- Custom K (x=576..740) with carpenter-square top notch and 45-deg chevron -->
+    <path id="char-K" d="M 576 28 H 644 L 620 52 H 612 V 228 H 576 Z M 628 128 L 712 28 H 748 L 668 124 L 752 228 H 712 Z"/>
+    <!-- Custom A (x=780..956) with architectural flat apex and 45-deg crossbar stencil cut -->
+    <path id="char-A" d="M 844 28 H 892 L 956 228 H 916 L 900 176 H 824 L 840 144 H 890 L 868 68 L 816 228 H 780 Z"/>
+    <!-- Custom D (x=988..1164) with 45-deg calibration chamfer on top-right and bottom-right -->
+    <path id="char-D" d="M 988 28 H 1120 L 1164 72 V 184 L 1120 228 H 988 Z M 1024 60 V 196 H 1104 L 1128 172 V 84 L 1104 60 Z"/>
+    <!-- Custom R (x=1200..1384) with 45-deg bowl chamfer and 45-deg leg -->
+    <path id="char-R" d="M 1200 28 H 1336 L 1372 64 V 116 L 1336 152 H 1316 L 1384 228 H 1340 L 1276 152 H 1236 V 228 H 1200 Z M 1236 60 V 120 H 1320 L 1336 104 V 76 L 1320 60 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="984" viewBox="0 0 1600 984"><defs><filter id="grey"><feColorMatrix type="saturate" values="0"/></filter></defs><rect width="1600" height="984" fill="#f7f7f4"/><text x="60" y="78" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#161616">矩台 KADR — 品牌标识概念方案（Checkpoint 1）</text><text x="60" y="116" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#6b6b6b">面向专业设计师与插画师的 AI 生图与精修桌面工作台 · 请选择一套方向（或告知各套中您喜欢的部分）</text><rect x="60" y="150" width="474.667" height="774" rx="18" fill="#fff" stroke="#161616" stroke-width="2"/><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-a3" viewBox="0 0 256 256" x="90" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <title id="c0-title-a3">矩台 KADR — Concept A (Calibrated K) v4</title>
+  <g id="c0-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left carpenter's square (⌜): 44-unit stem (28..72), 44-unit top bar (28..72), 32-unit inner shelf (72..104) -->
+    <path id="c0-carpenter-square" d="M 28 28 H 148 L 104 72 H 72 V 228 H 28 Z"/>
+    <!-- Right 45-degree K chevron: 62-unit horizontal span = 43.8-unit perpendicular stroke -->
+    <path id="c0-k-chevron" d="M 96 128 L 196 28 H 228 V 58 L 158 128 L 228 198 V 228 H 196 Z"/>
+    <!-- Right calibration platen node: 36 units wide, 34-unit gap from chevron -->
+    <path id="c0-platen-node" d="M 192 128 L 228 92 V 164 Z"/>
+  </g>
+</svg>
+</g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 839.25 153.5" x="90" y="514" width="414.667" height="120" preserveAspectRatio="xMidYMid meet"><title>矩台 KADR Concept A v4 horizontal</title><g transform="translate(-21.491 -21.491) scale(0.76752)">
+  <title id="l0-title-a3">矩台 KADR — Concept A (Calibrated K) v4</title>
+  <g id="l0-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left carpenter's square (⌜): 44-unit stem (28..72), 44-unit top bar (28..72), 32-unit inner shelf (72..104) -->
+    <path id="l0-carpenter-square" d="M 28 28 H 148 L 104 72 H 72 V 228 H 28 Z"/>
+    <!-- Right 45-degree K chevron: 62-unit horizontal span = 43.8-unit perpendicular stroke -->
+    <path id="l0-k-chevron" d="M 96 128 L 196 28 H 228 V 58 L 158 128 L 228 198 V 228 H 196 Z"/>
+    <!-- Right calibration platen node: 36 units wide, 34-unit gap from chevron -->
+    <path id="l0-platen-node" d="M 192 128 L 228 92 V 164 Z"/>
+  </g>
+</g><g transform="translate(196.485 26.752) scale(1.00000)"><path fill="#111111" fill-rule="evenodd" d="M 460.18 0.00 L 524.18 0.00 L 541.33 17.14 L 541.33 82.86 L 524.18 100.00 L 460.18 100.00 Z M 642.76 66.86 L 642.76 100.00 L 623.33 100.00 L 623.33 71.29 L 614.76 61.71 L 583.61 61.71 L 583.61 100.00 L 564.18 100.00 L 564.18 0.00 L 626.90 0.00 L 642.18 15.43 L 642.18 45.71 L 632.47 55.57 Z M 390.18 0.00 L 407.90 0.00 L 444.47 100.00 L 424.76 100.00 L 416.61 77.86 L 381.47 77.86 L 373.33 100.00 L 353.61 100.00 Z M 263.47 0.00 L 282.90 0.00 L 282.90 41.86 L 298.04 41.86 L 322.18 0.00 L 344.04 0.00 L 314.76 49.86 L 346.47 100.00 L 324.18 100.00 L 297.90 58.43 L 282.90 58.43 L 282.90 100.00 L 263.47 100.00 Z M 94.58 4.58 L 97.84 7.84 L 97.84 19.54 L 63.04 19.54 L 63.04 29.52 L 94.13 29.52 L 94.13 69.42 L 63.04 69.42 L 63.04 82.58 L 99.86 82.58 L 99.86 97.54 L 47.54 97.54 L 47.54 4.58 Z M 122.78 53.18 L 196.86 53.18 L 196.86 101.26 L 180.20 101.26 L 180.20 96.06 L 138.60 96.06 L 138.60 101.26 L 122.78 101.26 Z M 514.61 83.43 L 521.90 76.14 L 521.90 23.86 L 514.61 16.57 L 479.61 16.57 L 479.61 83.43 Z M 2.23 42.04 L 18.22 42.04 Q 18.25 40.58 18.25 39.18 L 18.25 27.18 L 17.29 27.18 Q 16.88 28.61 16.45 30.00 Q 14.54 36.10 12.20 40.66 Q 10.93 39.49 8.76 37.90 Q 6.58 36.31 4.30 34.77 Q 2.02 33.23 0.32 32.38 Q 3.40 26.65 5.25 18.11 Q 7.11 9.57 7.96 0.87 L 22.07 3.41 Q 21.46 8.33 20.54 13.28 L 42.87 13.28 L 42.87 27.18 L 32.90 27.18 L 32.90 39.39 Q 32.90 40.69 32.87 42.04 L 45.31 42.04 L 45.31 56.26 L 31.84 56.26 Q 31.48 59.16 30.93 62.12 Q 31.71 62.85 32.74 63.90 Q 34.60 65.81 36.72 68.09 Q 38.84 70.38 40.91 72.71 Q 42.98 75.04 44.68 76.96 Q 46.38 78.87 47.12 79.71 L 37.57 92.45 Q 35.98 89.80 33.85 86.67 Q 31.73 83.53 29.40 80.35 Q 28.16 78.66 26.97 77.07 Q 24.95 82.63 22.07 87.89 Q 17.72 95.84 10.72 102.00 Q 9.76 100.51 7.75 98.34 Q 5.73 96.16 3.61 94.20 Q 1.49 92.24 0.00 91.28 Q 6.26 85.76 9.92 79.18 Q 13.58 72.60 15.39 65.60 Q 16.60 60.88 17.24 56.26 L 2.23 56.26 Z M 167.57 17.10 L 179.56 9.04 Q 184.23 13.60 189.64 19.22 Q 195.05 24.85 199.83 30.37 Q 204.60 35.89 207.47 40.45 L 194.42 50.00 Q 192.49 46.54 189.43 42.41 Q 178.38 42.89 169.74 43.26 Q 158.76 43.74 151.07 44.11 Q 143.37 44.48 138.17 44.80 Q 132.97 45.12 129.68 45.44 Q 126.39 45.76 124.32 46.18 Q 122.25 46.60 120.56 47.13 Q 120.24 45.65 119.33 42.94 Q 118.43 40.24 117.42 37.32 Q 116.42 34.40 115.46 32.38 Q 117.90 31.85 119.87 30.37 Q 121.83 28.88 124.48 26.44 Q 125.86 25.17 128.41 22.36 Q 130.96 19.54 134.03 15.67 Q 137.11 11.80 140.24 7.23 Q 143.37 2.67 145.92 -2.00 L 161.52 4.69 Q 157.06 11.27 151.65 17.63 Q 146.24 24.00 140.56 29.57 L 140.55 29.58 L 178.14 28.65 Q 177.87 28.34 177.60 28.03 Q 172.34 22.09 167.57 17.10 Z M 583.61 45.71 L 618.04 45.71 L 623.04 40.71 L 623.04 21.29 L 618.04 16.29 L 583.61 16.29 Z M 180.20 81.20 L 180.20 67.93 L 138.60 67.93 L 138.60 81.20 Z M 412.33 61.86 L 399.04 23.86 L 398.76 23.86 L 385.90 61.86 Z M 229.50 40.00 L 239.50 50.00 L 229.50 60.00 L 219.50 50.00 Z M 63.04 43.84 L 63.04 55.09 L 79.80 55.09 L 79.80 43.84 Z"/></g></svg></g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-a3" viewBox="0 0 256 256" x="90" y="660" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <title id="s064-title-a3">矩台 KADR — Concept A (Calibrated K) v4</title>
+  <g id="s064-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left carpenter's square (⌜): 44-unit stem (28..72), 44-unit top bar (28..72), 32-unit inner shelf (72..104) -->
+    <path id="s064-carpenter-square" d="M 28 28 H 148 L 104 72 H 72 V 228 H 28 Z"/>
+    <!-- Right 45-degree K chevron: 62-unit horizontal span = 43.8-unit perpendicular stroke -->
+    <path id="s064-k-chevron" d="M 96 128 L 196 28 H 228 V 58 L 158 128 L 228 198 V 228 H 196 Z"/>
+    <!-- Right calibration platen node: 36 units wide, 34-unit gap from chevron -->
+    <path id="s064-platen-node" d="M 192 128 L 228 92 V 164 Z"/>
+  </g>
+</svg>
+</g><text x="122" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-a3" viewBox="0 0 256 256" x="180" y="692" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <title id="s032-title-a3">矩台 KADR — Concept A (Calibrated K) v4</title>
+  <g id="s032-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left carpenter's square (⌜): 44-unit stem (28..72), 44-unit top bar (28..72), 32-unit inner shelf (72..104) -->
+    <path id="s032-carpenter-square" d="M 28 28 H 148 L 104 72 H 72 V 228 H 28 Z"/>
+    <!-- Right 45-degree K chevron: 62-unit horizontal span = 43.8-unit perpendicular stroke -->
+    <path id="s032-k-chevron" d="M 96 128 L 196 28 H 228 V 58 L 158 128 L 228 198 V 228 H 196 Z"/>
+    <!-- Right calibration platen node: 36 units wide, 34-unit gap from chevron -->
+    <path id="s032-platen-node" d="M 192 128 L 228 92 V 164 Z"/>
+  </g>
+</svg>
+</g><text x="196" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-a3" viewBox="0 0 256 256" x="238" y="708" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <title id="s016-title-a3">矩台 KADR — Concept A (Calibrated K) v4</title>
+  <g id="s016-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left carpenter's square (⌜): 44-unit stem (28..72), 44-unit top bar (28..72), 32-unit inner shelf (72..104) -->
+    <path id="s016-carpenter-square" d="M 28 28 H 148 L 104 72 H 72 V 228 H 28 Z"/>
+    <!-- Right 45-degree K chevron: 62-unit horizontal span = 43.8-unit perpendicular stroke -->
+    <path id="s016-k-chevron" d="M 96 128 L 196 28 H 228 V 58 L 158 128 L 228 198 V 228 H 196 Z"/>
+    <!-- Right calibration platen node: 36 units wide, 34-unit gap from chevron -->
+    <path id="s016-platen-node" d="M 192 128 L 228 92 V 164 Z"/>
+  </g>
+</svg>
+</g><text x="246" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="90.0" y="780" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">A · Calibrated K · 曲尺看片台</text><text x="90.0" y="808" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#161616" letter-spacing="1.5">RECOMMENDED</text><text x="90.0" y="842" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">90°曲尺与45°校样通道切出K字，​​​​​​​​​​​​​​​​​​​​​​</text><text x="90.0" y="868" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">将看片台画幅基准与首字母合一。​​​​​​​​​​​​​​​​​​​​​​​​​</text><rect x="562.667" y="150" width="474.667" height="774" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-b4" viewBox="0 0 256 256" x="592.667" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <title id="c1-title-b4">矩台 KADR — Concept B (Queue-to-Frame Workbench) v4</title>
+  <g id="c1-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Queued draft frame 1 (outer top-left L-bracket, 24-unit stroke, 45-deg top-right bevel) -->
+    <path id="c1-queue-frame-1" d="M 20 20 H 124 L 148 44 H 44 V 148 L 20 124 Z"/>
+    <!-- Queued draft frame 2 (middle stepped L-bracket, 24-unit clearance from frame 1) -->
+    <path id="c1-queue-frame-2" d="M 68 68 H 172 L 196 92 H 92 V 196 L 68 172 Z"/>
+    <!-- Locked master canvas frame (24-unit clearance from frame 2, 116..236 with 56x56 window and 45-deg corner) -->
+    <path id="c1-master-platen" d="M 116 116 H 204 L 236 148 V 236 H 116 Z M 148 148 V 204 H 204 V 148 Z"/>
+  </g>
+</svg>
+</g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 853.94 153.5" x="592.667" y="514" width="414.667" height="120" preserveAspectRatio="xMidYMid meet"><title>矩台 KADR Concept B v4 horizontal</title><g transform="translate(-14.213 -14.213) scale(0.71067)">
+  <title id="l1-title-b4">矩台 KADR — Concept B (Queue-to-Frame Workbench) v4</title>
+  <g id="l1-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Queued draft frame 1 (outer top-left L-bracket, 24-unit stroke, 45-deg top-right bevel) -->
+    <path id="l1-queue-frame-1" d="M 20 20 H 124 L 148 44 H 44 V 148 L 20 124 Z"/>
+    <!-- Queued draft frame 2 (middle stepped L-bracket, 24-unit clearance from frame 1) -->
+    <path id="l1-queue-frame-2" d="M 68 68 H 172 L 196 92 H 92 V 196 L 68 172 Z"/>
+    <!-- Locked master canvas frame (24-unit clearance from frame 2, 116..236 with 56x56 window and 45-deg corner) -->
+    <path id="l1-master-platen" d="M 116 116 H 204 L 236 148 V 236 H 116 Z M 148 148 V 204 H 204 V 148 Z"/>
+  </g>
+</g><g transform="translate(196.485 26.752) scale(1.00000)"><path fill="#111111" fill-rule="evenodd" d="M 472.78 100.00 L 472.78 0.00 L 510.46 0.00 Q 523.78 0.00 533.67 5.59 Q 543.56 11.17 549.00 22.28 Q 554.44 33.38 554.44 50.00 Q 554.44 66.62 549.00 77.72 Q 543.56 88.83 533.67 94.41 Q 523.78 100.00 510.46 100.00 Z M 600.15 63.32 L 600.15 100.00 L 578.37 100.00 L 578.37 0.00 L 625.79 0.00 Q 635.10 0.00 641.84 4.01 Q 648.57 8.02 652.29 15.19 Q 656.02 22.35 656.02 31.95 Q 656.02 41.98 651.51 49.64 Q 646.99 57.31 637.82 60.74 L 657.45 100.00 L 633.24 100.00 L 615.76 63.32 Z M 453.15 100.00 L 430.52 100.00 L 423.35 76.22 L 389.97 76.22 L 382.81 100.00 L 360.75 100.00 L 393.70 0.00 L 420.63 0.00 Z M 324.79 100.00 L 298.28 56.45 L 285.25 72.21 L 285.25 100.00 L 263.47 100.00 L 263.47 0.00 L 285.25 0.00 L 285.25 47.56 L 286.11 47.56 L 300.29 28.22 L 322.78 0.00 L 347.42 0.00 L 313.76 41.12 L 350.43 100.00 Z M 94.58 4.58 L 97.84 7.84 L 97.84 19.54 L 63.04 19.54 L 63.04 29.52 L 94.13 29.52 L 94.13 69.42 L 63.04 69.42 L 63.04 82.58 L 99.86 82.58 L 99.86 97.54 L 47.54 97.54 L 47.54 4.58 Z M 122.78 53.18 L 196.86 53.18 L 196.86 101.26 L 180.20 101.26 L 180.20 96.06 L 138.60 96.06 L 138.60 101.26 L 122.78 101.26 Z M 2.23 42.04 L 18.22 42.04 Q 18.25 40.58 18.25 39.18 L 18.25 27.18 L 17.29 27.18 Q 16.88 28.61 16.45 30.00 Q 14.54 36.10 12.20 40.66 Q 10.93 39.49 8.76 37.90 Q 6.58 36.31 4.30 34.77 Q 2.02 33.23 0.32 32.38 Q 3.40 26.65 5.25 18.11 Q 7.11 9.57 7.96 0.87 L 22.07 3.41 Q 21.46 8.33 20.54 13.28 L 42.87 13.28 L 42.87 27.18 L 32.90 27.18 L 32.90 39.39 Q 32.90 40.69 32.87 42.04 L 45.31 42.04 L 45.31 56.26 L 31.84 56.26 Q 31.48 59.16 30.93 62.12 Q 31.71 62.85 32.74 63.90 Q 34.60 65.81 36.72 68.09 Q 38.84 70.38 40.91 72.71 Q 42.98 75.04 44.68 76.96 Q 46.38 78.87 47.12 79.71 L 37.57 92.45 Q 35.98 89.80 33.85 86.67 Q 31.73 83.53 29.40 80.35 Q 28.16 78.66 26.97 77.07 Q 24.95 82.63 22.07 87.89 Q 17.72 95.84 10.72 102.00 Q 9.76 100.51 7.75 98.34 Q 5.73 96.16 3.61 94.20 Q 1.49 92.24 0.00 91.28 Q 6.26 85.76 9.92 79.18 Q 13.58 72.60 15.39 65.60 Q 16.60 60.88 17.24 56.26 L 2.23 56.26 Z M 167.57 17.10 L 179.56 9.04 Q 184.23 13.60 189.64 19.22 Q 195.05 24.85 199.83 30.37 Q 204.60 35.89 207.47 40.45 L 194.42 50.00 Q 192.49 46.54 189.43 42.41 Q 178.38 42.89 169.74 43.26 Q 158.76 43.74 151.07 44.11 Q 143.37 44.48 138.17 44.80 Q 132.97 45.12 129.68 45.44 Q 126.39 45.76 124.32 46.18 Q 122.25 46.60 120.56 47.13 Q 120.24 45.65 119.33 42.94 Q 118.43 40.24 117.42 37.32 Q 116.42 34.40 115.46 32.38 Q 117.90 31.85 119.87 30.37 Q 121.83 28.88 124.48 26.44 Q 125.86 25.17 128.41 22.36 Q 130.96 19.54 134.03 15.67 Q 137.11 11.80 140.24 7.23 Q 143.37 2.67 145.92 -2.00 L 161.52 4.69 Q 157.06 11.27 151.65 17.63 Q 146.24 24.00 140.56 29.57 L 140.55 29.58 L 178.14 28.65 Q 177.87 28.34 177.60 28.03 Q 172.34 22.09 167.57 17.10 Z M 494.56 80.66 L 510.46 80.66 Q 516.91 80.66 521.64 78.22 Q 526.36 75.79 528.87 70.70 Q 531.38 65.62 531.38 57.74 L 531.38 42.26 Q 531.38 34.24 528.87 29.23 Q 526.36 24.21 521.64 21.78 Q 516.91 19.34 510.46 19.34 L 494.56 19.34 Z M 600.15 44.99 L 623.07 44.99 Q 626.36 44.99 628.66 43.84 Q 630.95 42.69 632.24 40.47 Q 633.53 38.25 633.53 35.10 L 633.53 28.80 Q 633.53 25.50 632.24 23.35 Q 630.95 21.20 628.66 20.06 Q 626.36 18.91 623.07 18.91 L 600.15 18.91 Z M 225.50 14.00 L 233.50 14.00 L 233.50 86.00 L 225.50 86.00 Z M 180.20 81.20 L 180.20 67.93 L 138.60 67.93 L 138.60 81.20 Z M 418.05 57.74 L 411.89 36.96 L 406.88 19.77 L 406.16 19.77 L 401.29 36.96 L 395.13 57.74 Z M 63.04 43.84 L 63.04 55.09 L 79.80 55.09 L 79.80 43.84 Z"/></g></svg></g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-b4" viewBox="0 0 256 256" x="592.667" y="660" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <title id="s164-title-b4">矩台 KADR — Concept B (Queue-to-Frame Workbench) v4</title>
+  <g id="s164-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Queued draft frame 1 (outer top-left L-bracket, 24-unit stroke, 45-deg top-right bevel) -->
+    <path id="s164-queue-frame-1" d="M 20 20 H 124 L 148 44 H 44 V 148 L 20 124 Z"/>
+    <!-- Queued draft frame 2 (middle stepped L-bracket, 24-unit clearance from frame 1) -->
+    <path id="s164-queue-frame-2" d="M 68 68 H 172 L 196 92 H 92 V 196 L 68 172 Z"/>
+    <!-- Locked master canvas frame (24-unit clearance from frame 2, 116..236 with 56x56 window and 45-deg corner) -->
+    <path id="s164-master-platen" d="M 116 116 H 204 L 236 148 V 236 H 116 Z M 148 148 V 204 H 204 V 148 Z"/>
+  </g>
+</svg>
+</g><text x="624.667" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-b4" viewBox="0 0 256 256" x="682.667" y="692" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <title id="s132-title-b4">矩台 KADR — Concept B (Queue-to-Frame Workbench) v4</title>
+  <g id="s132-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Queued draft frame 1 (outer top-left L-bracket, 24-unit stroke, 45-deg top-right bevel) -->
+    <path id="s132-queue-frame-1" d="M 20 20 H 124 L 148 44 H 44 V 148 L 20 124 Z"/>
+    <!-- Queued draft frame 2 (middle stepped L-bracket, 24-unit clearance from frame 1) -->
+    <path id="s132-queue-frame-2" d="M 68 68 H 172 L 196 92 H 92 V 196 L 68 172 Z"/>
+    <!-- Locked master canvas frame (24-unit clearance from frame 2, 116..236 with 56x56 window and 45-deg corner) -->
+    <path id="s132-master-platen" d="M 116 116 H 204 L 236 148 V 236 H 116 Z M 148 148 V 204 H 204 V 148 Z"/>
+  </g>
+</svg>
+</g><text x="698.667" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-b4" viewBox="0 0 256 256" x="740.667" y="708" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <title id="s116-title-b4">矩台 KADR — Concept B (Queue-to-Frame Workbench) v4</title>
+  <g id="s116-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Queued draft frame 1 (outer top-left L-bracket, 24-unit stroke, 45-deg top-right bevel) -->
+    <path id="s116-queue-frame-1" d="M 20 20 H 124 L 148 44 H 44 V 148 L 20 124 Z"/>
+    <!-- Queued draft frame 2 (middle stepped L-bracket, 24-unit clearance from frame 1) -->
+    <path id="s116-queue-frame-2" d="M 68 68 H 172 L 196 92 H 92 V 196 L 68 172 Z"/>
+    <!-- Locked master canvas frame (24-unit clearance from frame 2, 116..236 with 56x56 window and 45-deg corner) -->
+    <path id="s116-master-platen" d="M 116 116 H 204 L 236 148 V 236 H 116 Z M 148 148 V 204 H 204 V 148 Z"/>
+  </g>
+</svg>
+</g><text x="748.667" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="592.6666666666667" y="780" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">B · Queue &amp; Lock · 队列比对窗</text><text x="592.6666666666667" y="814" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">两道排队生成画框递进锁定至主视窗，​​​​​​​​​​​​​​​​​​​​​​​</text><text x="592.6666666666667" y="840" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">直观呈现排队、比对与精修工作流。​​​​​​​​​​​​​​​​​​​​​​​​</text><rect x="1065.33" y="150" width="474.667" height="774" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-c4" viewBox="0 0 256 256" x="1095.33" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <title id="c2-title-c4">矩台 KADR — Concept C (Custom 矩 Monogram) v4</title>
+  <g id="c2-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left radical 矢: exact 0/45/90 deg geometry, open top-left 45-deg 撇 stroke, 28-unit gap before 巨 -->
+    <path id="c2-radical-shi" d="M 56 28 H 88 L 72 44 H 112 V 72 H 84 V 114 H 112 V 142 H 84 L 112 170 V 206 L 80 174 V 188 L 40 228 H 20 V 204 L 52 172 V 142 H 20 V 114 H 52 V 72 H 44 L 28 88 H 20 V 64 Z"/>
+    <!-- Right radical 巨: 28-unit frame at x=140..236 with 28-unit open inner counter (114..142) -->
+    <path id="c2-radical-ju" d="M 140 28 H 208 L 236 56 V 60 H 168 V 88 H 228 V 168 H 168 V 196 H 236 V 228 H 140 Z M 168 114 V 142 H 200 V 114 Z"/>
+  </g>
+</svg>
+</g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-c4-lock" viewBox="0 0 1420 256" x="1095.33" y="514" width="414.667" height="120" preserveAspectRatio="xMidYMid meet">
+  <title id="l2-title-c4-lock">矩台 KADR — Concept C Custom Geometric Wordmark v4</title>
+  <g id="l2-wordmark" fill="#111111" fill-rule="evenodd">
+    <path id="l2-char-ju-left" d="M 56 28 H 88 L 72 44 H 112 V 72 H 84 V 114 H 112 V 142 H 84 L 112 170 V 206 L 80 174 V 188 L 40 228 H 20 V 204 L 52 172 V 142 H 20 V 114 H 52 V 72 H 44 L 28 88 H 20 V 64 Z"/>
+    <path id="l2-char-ju-right" d="M 140 28 H 208 L 236 56 V 60 H 168 V 88 H 228 V 168 H 168 V 196 H 236 V 228 H 140 Z M 168 114 V 142 H 200 V 114 Z"/>
+    <path id="l2-char-tai-top" d="M 336 28 H 376 L 316 88 H 404 L 380 64 V 48 H 412 L 468 104 V 124 H 436 L 428 116 H 276 V 88 Z"/>
+    <path id="l2-char-tai-bottom" d="M 284 140 H 432 L 456 164 V 228 H 284 Z M 312 168 V 200 H 428 V 168 Z"/>
+    <path id="l2-divider-dot" d="M 508 116 H 532 V 140 H 508 Z"/>
+    <path id="l2-char-K" d="M 576 28 H 660 L 632 56 H 612 V 228 H 576 Z M 632 128 L 732 28 H 756 V 52 L 680 128 L 756 204 V 228 H 732 Z"/>
+    <path id="l2-char-A" d="M 788 72 L 832 28 H 912 L 956 72 V 228 H 920 V 156 H 824 V 228 H 788 Z M 824 80 V 124 H 920 V 80 L 896 56 H 848 Z"/>
+    <path id="l2-char-D" d="M 992 28 H 1120 L 1164 72 V 184 L 1120 228 H 992 Z M 1028 60 V 196 H 1104 L 1128 172 V 84 L 1104 60 Z"/>
+    <path id="l2-char-R" d="M 1200 28 H 1336 L 1372 64 V 116 L 1336 152 H 1308 L 1384 228 H 1336 L 1260 152 H 1236 V 228 H 1200 Z M 1236 60 V 120 H 1320 L 1336 104 V 76 L 1320 60 Z"/>
+  </g>
+</svg>
+</g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-c4" viewBox="0 0 256 256" x="1095.33" y="660" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <title id="s264-title-c4">矩台 KADR — Concept C (Custom 矩 Monogram) v4</title>
+  <g id="s264-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left radical 矢: exact 0/45/90 deg geometry, open top-left 45-deg 撇 stroke, 28-unit gap before 巨 -->
+    <path id="s264-radical-shi" d="M 56 28 H 88 L 72 44 H 112 V 72 H 84 V 114 H 112 V 142 H 84 L 112 170 V 206 L 80 174 V 188 L 40 228 H 20 V 204 L 52 172 V 142 H 20 V 114 H 52 V 72 H 44 L 28 88 H 20 V 64 Z"/>
+    <!-- Right radical 巨: 28-unit frame at x=140..236 with 28-unit open inner counter (114..142) -->
+    <path id="s264-radical-ju" d="M 140 28 H 208 L 236 56 V 60 H 168 V 88 H 228 V 168 H 168 V 196 H 236 V 228 H 140 Z M 168 114 V 142 H 200 V 114 Z"/>
+  </g>
+</svg>
+</g><text x="1127.33" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-c4" viewBox="0 0 256 256" x="1185.33" y="692" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <title id="s232-title-c4">矩台 KADR — Concept C (Custom 矩 Monogram) v4</title>
+  <g id="s232-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left radical 矢: exact 0/45/90 deg geometry, open top-left 45-deg 撇 stroke, 28-unit gap before 巨 -->
+    <path id="s232-radical-shi" d="M 56 28 H 88 L 72 44 H 112 V 72 H 84 V 114 H 112 V 142 H 84 L 112 170 V 206 L 80 174 V 188 L 40 228 H 20 V 204 L 52 172 V 142 H 20 V 114 H 52 V 72 H 44 L 28 88 H 20 V 64 Z"/>
+    <!-- Right radical 巨: 28-unit frame at x=140..236 with 28-unit open inner counter (114..142) -->
+    <path id="s232-radical-ju" d="M 140 28 H 208 L 236 56 V 60 H 168 V 88 H 228 V 168 H 168 V 196 H 236 V 228 H 140 Z M 168 114 V 142 H 200 V 114 Z"/>
+  </g>
+</svg>
+</g><text x="1201.33" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-c4" viewBox="0 0 256 256" x="1243.33" y="708" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <title id="s216-title-c4">矩台 KADR — Concept C (Custom 矩 Monogram) v4</title>
+  <g id="s216-symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left radical 矢: exact 0/45/90 deg geometry, open top-left 45-deg 撇 stroke, 28-unit gap before 巨 -->
+    <path id="s216-radical-shi" d="M 56 28 H 88 L 72 44 H 112 V 72 H 84 V 114 H 112 V 142 H 84 L 112 170 V 206 L 80 174 V 188 L 40 228 H 20 V 204 L 52 172 V 142 H 20 V 114 H 52 V 72 H 44 L 28 88 H 20 V 64 Z"/>
+    <!-- Right radical 巨: 28-unit frame at x=140..236 with 28-unit open inner counter (114..142) -->
+    <path id="s216-radical-ju" d="M 140 28 H 208 L 236 56 V 60 H 168 V 88 H 228 V 168 H 168 V 196 H 236 V 228 H 140 Z M 168 114 V 142 H 200 V 114 Z"/>
+  </g>
+</svg>
+</g><text x="1251.33" y="744" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="1095.3333333333335" y="780" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">C · Crop-Rule · 矩尺造字</text><text x="1095.3333333333335" y="814" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">以曲尺45°切角与模块网格定制造字，​​​​​​​​​​​​​​​​​​​​​​</text><text x="1095.3333333333335" y="840" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">统一矩台与KADR双语字标及矩字印记。​​​​​​​​​​​​​​​​​​​​​</text></svg>

@@ -1,0 +1,34 @@
+{
+ "units": "symbol grid 0..100; index = position in data-glyphs (1-based)",
+ "symbol-small": [
+  {
+   "id": "glyph",
+   "text": "光",
+   "location": {
+    "wght": 700
+   },
+   "glyphs": [
+    {
+     "index": 1,
+     "char": "光",
+     "x0": 12.9,
+     "x1": 87.1,
+     "cap_top": 8.0,
+     "baseline": 66.0,
+     "stems": [
+      [
+       33.16,
+       42.96
+      ],
+      [
+       53.13,
+       62.52
+      ]
+     ],
+     "pen_x": 10.79,
+     "advance": 78.27
+    }
+   ]
+  }
+ ]
+}

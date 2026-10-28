@@ -1,0 +1,47 @@
+{
+  "schema": "brand-identity/brief@1",
+  "brand": "光桌",
+  "tagline": "专业创作者的 AI 生图与精修工作台",
+  "site": null,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "doc_lang": "zh",
+  "numbers": true,
+  "components": {
+    "logo": "new",
+    "type": "new",
+    "palette": "new"
+  },
+  "sources": {},
+  "sets": 3,
+  "sector": "AI 视觉生成与精修桌面工作台",
+  "audience": "专业设计师与商业插画师",
+  "attributes": [
+    "精密",
+    "克制",
+    "高密度"
+  ],
+  "competitors": [
+    "Midjourney",
+    "Krea",
+    "Leonardo",
+    "Lovart",
+    "即梦"
+  ],
+  "axes": [],
+  "copy": {
+    "sentence": {
+      "zh": "队列中 12 组 4096×4096 批次已完成渲染，双栏像素级比对与局部重绘就绪。",
+      "en": "Batch 048 rendered in 3.2s at 4096px — compare 4 seeds side by side and inpaint."
+    },
+    "nav": [
+      "队列",
+      "比对",
+      "精修",
+      "参数"
+    ],
+    "cta": "新建批次"
+  }
+}

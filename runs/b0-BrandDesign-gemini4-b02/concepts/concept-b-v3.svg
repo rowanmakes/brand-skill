@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-b3">
+  <title id="title-b3">矩台 KADR — Concept B (Split-Wipe Comparator) v3</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left top & bottom queued generation strips (2 strips + active bridge, avoiding 3-dot 氵 radical) -->
+    <path id="queue-top" d="M 24 32 H 82 V 80 H 24 Z"/>
+    <path id="queue-bottom" d="M 24 176 H 82 V 224 H 24 Z"/>
+    <!-- Central vertical split-wipe comparator slider (y=16..240) locked to active middle strip and right master frame -->
+    <path id="comparator-frame" d="M 110 16 H 146 V 32 H 204 L 232 60 V 224 H 146 V 240 H 110 V 152 H 48 V 104 H 110 Z M 146 68 V 188 H 196 V 68 Z"/>
+  </g>
+</svg>

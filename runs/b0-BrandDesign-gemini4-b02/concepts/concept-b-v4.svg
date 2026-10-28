@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-b4">
+  <title id="title-b4">矩台 KADR — Concept B (Queue-to-Frame Workbench) v4</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Queued draft frame 1 (outer top-left L-bracket, 24-unit stroke, 45-deg top-right bevel) -->
+    <path id="queue-frame-1" d="M 20 20 H 124 L 148 44 H 44 V 148 L 20 124 Z"/>
+    <!-- Queued draft frame 2 (middle stepped L-bracket, 24-unit clearance from frame 1) -->
+    <path id="queue-frame-2" d="M 68 68 H 172 L 196 92 H 92 V 196 L 68 172 Z"/>
+    <!-- Locked master canvas frame (24-unit clearance from frame 2, 116..236 with 56x56 window and 45-deg corner) -->
+    <path id="master-platen" d="M 116 116 H 204 L 236 148 V 236 H 116 Z M 148 148 V 204 H 204 V 148 Z"/>
+  </g>
+</svg>

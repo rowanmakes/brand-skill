@@ -1,0 +1,113 @@
+{
+ "text": "BANSHAN ROASTERS",
+ "font": "Noto Serif SC",
+ "weight": 600,
+ "cap_height": 100.0,
+ "x_height": 70.51,
+ "baseline_y": 100,
+ "cap_top_y": 0,
+ "glyphs": [
+  {
+   "char": "B",
+   "glyph": "B",
+   "x": 0.0,
+   "advance": 89.85
+  },
+  {
+   "char": "A",
+   "glyph": "A",
+   "x": 111.8,
+   "advance": 100.69
+  },
+  {
+   "char": "N",
+   "glyph": "N",
+   "x": 234.43,
+   "advance": 109.74
+  },
+  {
+   "char": "S",
+   "glyph": "S",
+   "x": 366.12,
+   "advance": 79.97
+  },
+  {
+   "char": "H",
+   "glyph": "H",
+   "x": 468.04,
+   "advance": 117.97
+  },
+  {
+   "char": "A",
+   "glyph": "A",
+   "x": 607.96,
+   "advance": 100.69
+  },
+  {
+   "char": "N",
+   "glyph": "N",
+   "x": 730.59,
+   "advance": 110.7
+  },
+  {
+   "char": " ",
+   "glyph": "space",
+   "x": 863.24,
+   "advance": 34.71
+  },
+  {
+   "char": "R",
+   "glyph": "R",
+   "x": 919.89,
+   "advance": 98.22
+  },
+  {
+   "char": "O",
+   "glyph": "O",
+   "x": 1040.05,
+   "advance": 101.78
+  },
+  {
+   "char": "A",
+   "glyph": "A",
+   "x": 1163.79,
+   "advance": 100.82
+  },
+  {
+   "char": "S",
+   "glyph": "S",
+   "x": 1286.56,
+   "advance": 78.05
+  },
+  {
+   "char": "T",
+   "glyph": "T",
+   "x": 1386.56,
+   "advance": 93.28
+  },
+  {
+   "char": "E",
+   "glyph": "E",
+   "x": 1501.78,
+   "advance": 90.53
+  },
+  {
+   "char": "R",
+   "glyph": "R",
+   "x": 1614.27,
+   "advance": 100.69
+  },
+  {
+   "char": "S",
+   "glyph": "S",
+   "x": 1736.9,
+   "advance": 80.11
+  }
+ ],
+ "ink_bbox": [
+  6.58,
+  -3.29,
+  1810.84,
+  102.47
+ ]
+}

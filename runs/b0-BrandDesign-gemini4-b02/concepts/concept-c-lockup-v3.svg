@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1420 256" width="1420" height="256" role="img" aria-labelledby="title-c3-lock">
+  <title id="title-c3-lock">矩台 KADR — Concept C Custom Geometric Wordmark v3</title>
+  <g id="wordmark" fill="#111111" fill-rule="evenodd">
+    <!-- Custom 矩 (x=16..232): open 45-deg 撇 stroke, 28-unit 矢/巨 gap, >=28-unit counters -->
+    <path id="char-ju-left" d="M 52 28 H 84 L 68 44 H 108 V 72 H 80 V 114 H 108 V 142 H 80 L 108 170 V 206 L 76 174 V 188 L 36 228 H 16 V 204 L 48 172 V 142 H 16 V 114 H 48 V 72 H 40 L 24 88 H 16 V 64 Z"/>
+    <path id="char-ju-right" d="M 136 28 H 204 L 232 56 V 60 H 164 V 90 H 224 V 166 H 164 V 196 H 232 V 228 H 136 Z M 164 116 V 140 H 196 V 116 Z"/>
+    <!-- Custom 台 (x=276..460): top prism 厶 with open 36-unit counter + bottom viewfinder frame 口 with 45-deg bevel -->
+    <path id="char-tai-top" d="M 340 28 H 388 L 460 100 V 120 H 276 V 92 Z M 352 56 L 316 92 H 420 L 384 56 Z"/>
+    <path id="char-tai-bottom" d="M 284 140 H 432 L 456 164 V 228 H 284 Z M 312 168 V 200 H 428 V 168 Z"/>
+    <!-- Divider calibration square (x=508..532) -->
+    <path id="divider-dot" d="M 508 116 H 532 V 140 H 508 Z"/>
+    <!-- Custom K (x=576..752): exact 0/45/90 deg carpenter-square stem + 45-deg chevron -->
+    <path id="char-K" d="M 576 28 H 644 L 616 56 H 612 V 228 H 576 Z M 632 128 L 732 28 H 756 V 52 L 680 128 L 756 204 V 228 H 732 Z"/>
+    <!-- Custom A (x=788..956): exact 0/45/90 deg chamfered arch A with clean counter and left-crossbar stencil notch -->
+    <path id="char-A" d="M 788 72 L 832 28 H 912 L 956 72 V 228 H 920 V 156 H 844 L 868 132 H 920 V 80 L 896 56 H 848 L 824 80 V 228 H 788 Z"/>
+    <!-- Custom D (x=992..1164): exact 0/45/90 deg with 45-deg chamfers -->
+    <path id="char-D" d="M 992 28 H 1120 L 1164 72 V 184 L 1120 228 H 992 Z M 1028 60 V 196 H 1104 L 1128 172 V 84 L 1104 60 Z"/>
+    <!-- Custom R (x=1200..1384): exact 0/45/90 deg with 45-deg bowl chamfer and 45-deg leg -->
+    <path id="char-R" d="M 1200 28 H 1336 L 1372 64 V 116 L 1336 152 H 1308 L 1384 228 H 1336 L 1260 152 H 1236 V 228 H 1200 Z M 1236 60 V 120 H 1320 L 1336 104 V 76 L 1320 60 Z"/>
+  </g>
+</svg>

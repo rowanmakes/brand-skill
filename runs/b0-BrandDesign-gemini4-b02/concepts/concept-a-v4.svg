@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-a3">
+  <title id="title-a3">矩台 KADR — Concept A (Calibrated K) v4</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Left carpenter's square (⌜): 44-unit stem (28..72), 44-unit top bar (28..72), 32-unit inner shelf (72..104) -->
+    <path id="carpenter-square" d="M 28 28 H 148 L 104 72 H 72 V 228 H 28 Z"/>
+    <!-- Right 45-degree K chevron: 62-unit horizontal span = 43.8-unit perpendicular stroke -->
+    <path id="k-chevron" d="M 96 128 L 196 28 H 228 V 58 L 158 128 L 228 198 V 228 H 196 Z"/>
+    <!-- Right calibration platen node: 36 units wide, 34-unit gap from chevron -->
+    <path id="platen-node" d="M 192 128 L 228 92 V 164 Z"/>
+  </g>
+</svg>

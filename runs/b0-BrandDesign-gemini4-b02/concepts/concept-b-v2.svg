@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-b2">
+  <title id="title-b2">矩台 KADR — Concept B (Queue and Lock Workbench) v2</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Three queued generation cells on the left -->
+    <path id="queue-1" d="M 24 28 H 84 V 80 H 24 Z"/>
+    <path id="queue-2" d="M 24 102 H 84 V 154 H 24 Z"/>
+    <path id="queue-3" d="M 24 176 H 84 V 228 H 24 Z"/>
+    <!-- Right master canvas frame with real hole and 45-degree corner crop tab -->
+    <path id="master-canvas" d="M 108 28 H 232 V 228 H 108 Z M 136 56 V 200 H 204 V 92 L 168 56 Z"/>
+    <!-- Precision reticle square inside the master viewport -->
+    <path id="viewport-target" d="M 154 114 H 186 V 146 H 154 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-a">
+  <title id="title-a">矩台 KADR — Concept A (Calibrated K) v1</title>
+  <g id="symbol" fill="#111111" fill-rule="evenodd">
+    <!-- Carpenter's L-square (left stem + bottom foot of 矩, also left stem of K) -->
+    <path id="l-square" d="M 28 28 H 80 V 180 H 132 V 228 H 28 Z M 46 64 H 62 V 72 H 46 Z M 46 96 H 62 V 104 H 46 Z M 46 128 H 62 V 136 H 46 Z"/>
+    <!-- Upper-right platen block (top-right of K channel, 45 deg diagonal: dx=84, dy=84) -->
+    <path id="upper-platen" d="M 96 28 H 228 V 56 L 144 140 L 96 92 Z"/>
+    <!-- Lower-right comparator block (bottom-right leg of K, 45 deg diagonal) -->
+    <path id="lower-platen" d="M 160 104 L 228 172 V 228 H 152 V 180 H 148 L 116 148 Z"/>
+  </g>
+</svg>

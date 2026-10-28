@@ -9,6 +9,7 @@
 ## 目录
 
 ```
+docs/basics.md               基础：来龙去脉、用户的决定、风险（先读这份）
 docs/plan.md                 路线：先测底座，再补策略层和物料
 docs/playbook.md             测试流程与提示词
 docs/research/               调研：Lovart 方法论、6 个品牌 skill 拆解

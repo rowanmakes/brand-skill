@@ -1,0 +1,5 @@
+.bases/
+# 运行产物里不进仓库的部分
+runs/**/.cache/
+runs/b0-brand-identity-gemini4-b01/brand/
+runs/**/site/competitors/*.png

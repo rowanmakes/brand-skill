@@ -1,0 +1,25 @@
+{
+ "units": "symbol grid 0..100; index = position in data-glyphs (1-based)",
+ "symbol-small": [
+  {
+   "id": "han-char",
+   "text": "半",
+   "location": {
+    "wght": 800
+   },
+   "glyphs": [
+    {
+     "index": 1,
+     "char": "半",
+     "x0": 12.03,
+     "x1": 87.97,
+     "cap_top": 6.0,
+     "baseline": 68.0,
+     "stems": [],
+     "pen_x": 8.19,
+     "advance": 83.45
+    }
+   ]
+  }
+ ]
+}

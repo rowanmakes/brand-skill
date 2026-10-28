@@ -1,0 +1,337 @@
+{
+  "schema": "brand-identity/identity@1",
+  "brand": {
+    "name": "半山烘焙",
+    "tagline": "豆子的产地和处理法自己会说话",
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "doc_lang": "zh",
+    "sector": "精品咖啡豆订阅与浅中烘焙工作室",
+    "numbers": true,
+    "copy": {
+      "sentence": {
+        "zh": "埃塞俄比亚古吉日晒，海拔 2150 米，浅度烘焙于 10 月 28 日，¥88 / 200g。",
+        "en": "Guji Uraga Natural, 2150 MASL, light roast on 2026-10-28, ¥88 / 200g."
+      },
+      "nav": [
+        "本期豆单",
+        "订阅计划",
+        "烘焙日志",
+        "产区故事"
+      ],
+      "cta": "开启每月鲜豆订阅"
+    }
+  },
+  "set": {
+    "id": "A",
+    "name": "等高风土 · Contour Terroir",
+    "recommended": true,
+    "mechanism": "半山海拔 1800–2200 米的等高线截面：三层阶梯山体与斜切溪谷构成符号，搭配人文衬线标题与高山冷松绿调色板。",
+    "expression_move": "冷峻高山松绿与云雾白基底上，唯独一道代表咖啡红果与半山海拔标尺的朱砂红切线。",
+    "differs_by": "明谦、少数派与 La Cabra、Sey 多用黑灰白或牛皮纸暖棕；本方案跳出熟豆褐色定式，以产区高海拔冷松绿与地理等高截面直接呼应“产地自己会说话”。"
+  },
+  "axes": {
+    "warm_cool": 1,
+    "classic_contemporary": -1,
+    "quiet_loud": -1,
+    "premium_accessible": -1
+  },
+  "components": {
+    "logo": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    },
+    "type": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    },
+    "palette": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    }
+  },
+  "type": {
+    "pairing_mode": "contrast",
+    "display": {
+      "family": "Noto Serif SC",
+      "source": "google",
+      "license": "OFL-1.1",
+      "weights": [
+        600
+      ],
+      "location": {
+        "wght": 600
+      },
+      "features": [],
+      "case": "as-is",
+      "tracking": 40,
+      "fallback": "Songti SC, Georgia, serif",
+      "file": null
+    },
+    "text": {
+      "family": "Noto Sans SC",
+      "source": "google",
+      "license": "OFL-1.1",
+      "weights": [
+        400,
+        600
+      ],
+      "location": {
+        "wght": 400
+      },
+      "features": [],
+      "case": "as-is",
+      "tracking": 0,
+      "fallback": "PingFang SC, system-ui, sans-serif",
+      "file": null
+    },
+    "mono": null
+  },
+  "logo": {
+    "type": "symbol+wordmark",
+    "ideas": [
+      "半山等高截面：三层水平阶梯岩层被一道斜向溪谷切开，右侧半腰嵌入红果海拔标尺。",
+      "高海拔标尺印记：以 2000m 等高刻度线与半山坡度角构成的方形地理印章。",
+      "滤杯与山脊同构：60° 手冲滤杯折角与半山轮廓共用同一组几何切线。",
+      "日晒高架床透视：非洲日晒床平行木格与半山梯田的极简正交阵列。",
+      "回温点折线：浅中烘升温曲线在半山腰回温点（Turning Point）的几何折角。"
+    ],
+    "concept": "三层等高阶梯构成“半山”截面，中层右侧以咖啡红果色标定“半山腰”的海拔坐标与豆芯裂纹。",
+    "defect": "统一三层阶梯山体的左右外坡斜率（dx/dy=0.35），使山体轮廓严格共线、斜向溪谷切口上下贯通。",
+    "symbol": "logo/symbol.svg",
+    "wordmark": {
+      "text": "半山烘焙",
+      "role": "display",
+      "location": {
+        "wght": 600
+      },
+      "tracking": 40,
+      "case": "as-is"
+    },
+    "monogram": null,
+    "lockups": [
+      "horizontal",
+      "stacked"
+    ],
+    "colors": {
+      "terraces": "primary",
+      "altitude-mark": "accent",
+      "wordmark": "text"
+    },
+    "tags": [
+      "abstract-geometric"
+    ],
+    "clear_space": {
+      "unit": "cap-height",
+      "multiple": 1,
+      "inferred": true
+    },
+    "min_size": {
+      "px": 24,
+      "mm": 8
+    }
+  },
+  "palette": "palette.json",
+  "defaults_used": [],
+  "rationale": [
+    {
+      "claim": "食品与饮品样本库中青绿/松绿（hue 174°–226°）为空白区，且与实测竞品 Tim Wendelboe (#0073d5)、La Cabra (#34352a)、Sey (#000000) 的主色 ΔE2000 均大于 25。",
+      "evidence": "measured",
+      "source": "search_library.py & site/competitors.json"
+    },
+    {
+      "claim": "正文采用 Noto Sans SC（自带等宽数字），解决订阅页面价格与烘焙日期对齐问题；标题采用 Noto Serif SC 600 字重塑造产地风土文学感。",
+      "evidence": "measured",
+      "source": "font_audit.py"
+    },
+    {
+      "claim": "以三层等高截面加中腰红果标尺表达“半山”与产区海拔，避免咖啡豆、咖啡杯蒸汽等行业陈词滥调。",
+      "evidence": "judgement",
+      "source": "designer"
+    }
+  ],
+  "derived": [
+    {
+      "file": "card.png",
+      "requires": [
+        "logo",
+        "type",
+        "palette"
+      ],
+      "inputs_sha256": "6750bfc025d29e4cea77a50f86622a3d908f68c294cfbd320df17b881c0d45dc"
+    }
+  ],
+  "audit": {
+    "schema": "brand-identity/audit@1",
+    "passed": true,
+    "counts": {
+      "gate": 0,
+      "warn": 1,
+      "info": 10
+    },
+    "findings": [
+      {
+        "id": "palette.structure.mid-lightness.brand-2",
+        "component": "palette",
+        "severity": "warn",
+        "measured": [
+          4.96,
+          4.24
+        ],
+        "threshold": 5.0,
+        "message": "#d1323e is a mid-lightness trap: white 4.96:1, black 4.24:1; body text on it needs a darker or lighter derivative",
+        "suggested_fix": {
+          "change": "brand-2",
+          "how": "keep the brand colour for large areas/logo; put text on a derivative step of its scale"
+        },
+        "roles": [
+          "brand-2"
+        ]
+      },
+      {
+        "id": "palette.contrast.light.border-on-background",
+        "component": "palette",
+        "severity": "info",
+        "measured": 1.35,
+        "threshold": 3.0,
+        "message": "light: border #d1d7d3 on background #f4f7f5 is 1.35:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.border",
+          "from": "#d1d7d3",
+          "to": "#8b908d",
+          "how": "darken by OKLCH L -0.22, same hue",
+          "ratio_after": 3.01
+        },
+        "roles": [
+          "light.border",
+          "light.background"
+        ]
+      },
+      {
+        "id": "palette.contrast.dark.link-on-text",
+        "component": "palette",
+        "severity": "info",
+        "measured": 2.45,
+        "threshold": 3.0,
+        "message": "dark: link #78a69c on text #f1f4f3 is 2.45:1, below 3.0:1 (underline links in dark mode (WCAG G183: without underline a link needs 3:1 against body text); WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.link",
+          "from": "#78a69c",
+          "to": "#5d8a80",
+          "how": "use primary-600 (same scale)",
+          "ratio_after": 3.51
+        },
+        "roles": [
+          "dark.link",
+          "dark.text"
+        ]
+      },
+      {
+        "id": "palette.contrast.dark.border-on-background",
+        "component": "palette",
+        "severity": "info",
+        "measured": 1.89,
+        "threshold": 3.0,
+        "message": "dark: border #394441 on background #09110f is 1.89:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.border",
+          "from": "#394441",
+          "to": "#6c7573",
+          "how": "use neutral-500 (same scale)",
+          "ratio_after": 4.03
+        },
+        "roles": [
+          "dark.border",
+          "dark.background"
+        ]
+      },
+      {
+        "id": "palette.harmony.primary-accent",
+        "component": "palette",
+        "severity": "info",
+        "measured": -0.73,
+        "threshold": -0.3,
+        "message": "Ou-Luo two-colour model scores #0c332c + #d1323e at -0.73 (negative = less harmonious on a grey CRT test, no context): model signal only; the pairing table in references/pairing.md takes precedence",
+        "suggested_fix": null,
+        "roles": [
+          "light.primary",
+          "light.accent"
+        ]
+      },
+      {
+        "id": "type.display.coverage.en_Latn.extended",
+        "component": "type",
+        "severity": "info",
+        "measured": "97/102",
+        "threshold": "100% auxiliary + punctuation",
+        "message": "Noto Serif SC lacks English auxiliary/punctuation characters: Ĕ Ĭ Ÿ ĕ ĭ",
+        "suggested_fix": "fine if the brand never writes them (loanwords, names); else another family"
+      },
+      {
+        "id": "type.display.coverage.gf-latin-core",
+        "component": "type",
+        "severity": "info",
+        "measured": "223/319",
+        "threshold": "GF Latin Core",
+        "message": "Noto Serif SC misses 96/319 GF Latin Core codepoints (reach beyond the brief's languages)",
+        "suggested_fix": "matters only if the brand may add more Latin-script languages"
+      },
+      {
+        "id": "type.display.web-weight",
+        "component": "type",
+        "severity": "info",
+        "measured": 968,
+        "threshold": null,
+        "message": "Noto Serif SC: ~968 KB WOFF2 for the brief's characters (one variable file, all weights; estimate)",
+        "suggested_fix": null
+      },
+      {
+        "id": "type.text.coverage.en_Latn.extended",
+        "component": "type",
+        "severity": "info",
+        "measured": "97/102",
+        "threshold": "100% auxiliary + punctuation",
+        "message": "Noto Sans SC lacks English auxiliary/punctuation characters: Ĕ Ĭ Ÿ ĕ ĭ",
+        "suggested_fix": "fine if the brand never writes them (loanwords, names); else another family"
+      },
+      {
+        "id": "type.text.coverage.gf-latin-core",
+        "component": "type",
+        "severity": "info",
+        "measured": "223/319",
+        "threshold": "GF Latin Core",
+        "message": "Noto Sans SC misses 96/319 GF Latin Core codepoints (reach beyond the brief's languages)",
+        "suggested_fix": "matters only if the brand may add more Latin-script languages"
+      },
+      {
+        "id": "type.text.web-weight",
+        "component": "type",
+        "severity": "info",
+        "measured": 739,
+        "threshold": null,
+        "message": "Noto Sans SC: ~739 KB WOFF2 for the brief's characters (one variable file, all weights; estimate)",
+        "suggested_fix": null
+      }
+    ],
+    "defaults": {
+      "matched": []
+    }
+  },
+  "palette_build": {
+    "strategy": null,
+    "accent": null,
+    "light_bg": "#f4f7f5",
+    "dark_bg": null,
+    "neutral_tint": null,
+    "neutral_chroma": 0.015,
+    "extra": []
+  }
+}

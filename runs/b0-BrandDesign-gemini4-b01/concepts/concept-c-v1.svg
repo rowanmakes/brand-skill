@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img">
+  <title>半山烘焙 — Concept C (Valley Crack Symbol v1)</title>
+  <path fill="#111111" fill-rule="evenodd" d="
+    M 128 24 A 104 104 0 1 1 128 232 A 104 104 0 1 1 128 24 Z
+    M 36 124 L 96 64 L 132 100 L 160 72 L 220 132 L 220 24 L 36 24 Z
+    M 128 100 L 116 156 L 132 172 L 122 220 L 130 220 L 142 168 L 126 152 L 136 100 Z
+  "/>
+</svg>

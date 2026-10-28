@@ -1,0 +1,471 @@
+{
+  "schema": "brand-identity/sets@1",
+  "sets": [
+    {
+      "identity": {
+        "set": {
+          "id": "A",
+          "name": "等高风土 · Contour Terroir",
+          "recommended": true,
+          "mechanism": "半山海拔 1800–2200 米的等高线截面：三层阶梯山体与斜切溪谷构成符号，搭配人文衬线标题与高山冷松绿调色板。",
+          "expression_move": "冷峻高山松绿与云雾白基底上，唯独一道代表咖啡红果与半山海拔标尺的朱砂红切线。",
+          "differs_by": "明谦、少数派与 La Cabra、Sey 多用黑灰白或牛皮纸暖棕；本方案跳出熟豆褐色定式，以产区高海拔冷松绿与地理等高截面直接呼应“产地自己会说话”。"
+        },
+        "axes": {
+          "warm_cool": 1,
+          "classic_contemporary": -1,
+          "quiet_loud": -1,
+          "premium_accessible": -1
+        },
+        "type": {
+          "pairing_mode": "contrast",
+          "display": {
+            "family": "Noto Serif SC",
+            "source": "google",
+            "license": "OFL-1.1",
+            "weights": [
+              600
+            ],
+            "location": {
+              "wght": 600
+            },
+            "features": [],
+            "case": "as-is",
+            "tracking": 40,
+            "fallback": "Songti SC, Georgia, serif",
+            "file": null
+          },
+          "text": {
+            "family": "Noto Sans SC",
+            "source": "google",
+            "license": "OFL-1.1",
+            "weights": [
+              400,
+              600
+            ],
+            "location": {
+              "wght": 400
+            },
+            "features": [],
+            "case": "as-is",
+            "tracking": 0,
+            "fallback": "PingFang SC, system-ui, sans-serif",
+            "file": null
+          },
+          "mono": null
+        },
+        "logo": {
+          "type": "symbol+wordmark",
+          "ideas": [
+            "半山等高截面：三层水平阶梯岩层被一道斜向溪谷切开，右侧半腰嵌入红果海拔标尺。",
+            "高海拔标尺印记：以 2000m 等高刻度线与半山坡度角构成的方形地理印章。",
+            "滤杯与山脊同构：60° 手冲滤杯折角与半山轮廓共用同一组几何切线。",
+            "日晒高架床透视：非洲日晒床平行木格与半山梯田的极简正交阵列。",
+            "回温点折线：浅中烘升温曲线在半山腰回温点（Turning Point）的几何折角。"
+          ],
+          "concept": "三层等高阶梯构成“半山”截面，中层右侧以咖啡红果色标定“半山腰”的海拔坐标与豆芯裂纹。",
+          "defect": "统一三层阶梯山体的左右外坡斜率（dx/dy=0.35），使山体轮廓严格共线、斜向溪谷切口上下贯通。",
+          "symbol": "logo/symbol.svg",
+          "wordmark": {
+            "text": "半山烘焙",
+            "role": "display",
+            "location": {
+              "wght": 600
+            },
+            "tracking": 40,
+            "case": "as-is"
+          },
+          "monogram": null,
+          "lockups": [
+            "horizontal",
+            "stacked"
+          ],
+          "colors": {
+            "terraces": "primary",
+            "altitude-mark": "accent",
+            "wordmark": "text"
+          },
+          "tags": [
+            "abstract-geometric"
+          ],
+          "clear_space": {
+            "unit": "cap-height",
+            "multiple": 1,
+            "inferred": true
+          },
+          "min_size": {
+            "px": 24,
+            "mm": 8
+          }
+        },
+        "palette_build": {
+          "strategy": null,
+          "accent": null,
+          "light_bg": "#f4f7f5",
+          "dark_bg": null,
+          "neutral_tint": null,
+          "neutral_chroma": 0.015,
+          "extra": []
+        },
+        "defaults_used": [],
+        "rationale": [
+          {
+            "claim": "食品与饮品样本库中青绿/松绿（hue 174°–226°）为空白区，且与实测竞品 Tim Wendelboe (#0073d5)、La Cabra (#34352a)、Sey (#000000) 的主色 ΔE2000 均大于 25。",
+            "evidence": "measured",
+            "source": "search_library.py & site/competitors.json"
+          },
+          {
+            "claim": "正文采用 Noto Sans SC（自带等宽数字），解决订阅页面价格与烘焙日期对齐问题；标题采用 Noto Serif SC 600 字重塑造产地风土文学感。",
+            "evidence": "measured",
+            "source": "font_audit.py"
+          },
+          {
+            "claim": "以三层等高截面加中腰红果标尺表达“半山”与产区海拔，避免咖啡豆、咖啡杯蒸汽等行业陈词滥调。",
+            "evidence": "judgement",
+            "source": "designer"
+          }
+        ]
+      },
+      "palette": {
+        "schema": "brand-identity/palette@1",
+        "name": "高山云雾与红果",
+        "direction": "高海拔云雾深松绿为主色，配一颗成熟咖啡红果的朱砂标尺色，置于清透冷雾白底。",
+        "brand": [
+          {
+            "id": "brand-1",
+            "name": "高山松绿",
+            "hex": "#0c332c",
+            "source": "chosen",
+            "locked": true,
+            "usage": "符号主体、核心标题、深色包装主面"
+          },
+          {
+            "id": "brand-2",
+            "name": "红果朱砂",
+            "hex": "#d1323e",
+            "source": "chosen",
+            "locked": true,
+            "usage": "半山海拔标尺切块、订阅行动按钮（CTA）、产区高亮标签"
+          }
+        ],
+        "feels": [
+          "清透",
+          "风土",
+          "高海拔"
+        ]
+      },
+      "symbol_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><g id=\"terraces\" data-color=\"primary\"><polygon id=\"peak-tier\" points=\"32,12 68,12 75.7,34 24.3,34\"/><polygon id=\"mid-tier-left\" points=\"21.5,42 54,42 46.3,64 13.8,64\"/><polygon id=\"base-tier\" points=\"11,72 89,72 95.3,90 4.7,90\"/></g><g id=\"altitude-mark\" data-color=\"accent\"><polygon id=\"mid-tier-mark\" points=\"64,42 78.5,42 86.2,64 56.3,64\"/></g></svg>\n",
+      "symbol_small_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><g id=\"terraces\" data-color=\"primary\"><polygon id=\"peak-tier\" points=\"30,10 70,10 78,34 22,34\"/><polygon id=\"mid-tier-left\" points=\"18,44 50,44 42,68 10,68\"/><polygon id=\"base-tier\" points=\"6,78 94,78 98,92 2,92\"/></g><g id=\"altitude-mark\" data-color=\"accent\"><polygon id=\"mid-tier-mark\" points=\"62,44 82,44 90,68 54,68\"/></g></svg>\n",
+      "wordmark_detail_svg": null
+    },
+    {
+      "identity": {
+        "set": {
+          "id": "B",
+          "name": "生豆批次单 · Origin Lot Tag",
+          "recommended": false,
+          "mechanism": "烘焙工坊的生豆批次吊牌（Lot Tag）：以字标笔画裁切与底栏打孔刻度线直接把“半山烘焙”做成一张产地溯源卡，配单字族黑体与生豆翠青色。",
+          "expression_move": "纯中文字标设计：‘半’字横画的半山断口与底部贯穿的生豆青批次卡尺直接咬合，不设冗余图形。",
+          "differs_by": "彻底摒弃行业常见的图形徽章，用纯字标定制（wordmark-only）+ 实验室批次卡语言，在浅中烘订阅场景中凸显烘焙日期与处理法数据。"
+        },
+        "axes": {
+          "warm_cool": 2,
+          "classic_contemporary": 2,
+          "quiet_loud": 1,
+          "premium_accessible": 1
+        },
+        "type": {
+          "pairing_mode": "single-family",
+          "display": {
+            "family": "Noto Sans SC",
+            "source": "google",
+            "license": "OFL-1.1",
+            "weights": [
+              800
+            ],
+            "location": {
+              "wght": 800
+            },
+            "features": [],
+            "case": "as-is",
+            "tracking": 20,
+            "fallback": "PingFang SC, system-ui, sans-serif",
+            "file": null
+          },
+          "text": {
+            "family": "Noto Sans SC",
+            "source": "google",
+            "license": "OFL-1.1",
+            "weights": [
+              400,
+              600
+            ],
+            "location": {
+              "wght": 400
+            },
+            "features": [],
+            "case": "as-is",
+            "tracking": 0,
+            "fallback": "PingFang SC, system-ui, sans-serif",
+            "file": null
+          },
+          "mono": null
+        },
+        "logo": {
+          "type": "wordmark",
+          "ideas": [
+            "批次卡字标：在“半山烘焙”四字下方贯穿生豆批次标尺，并对首字“半”做水平阶梯断口。",
+            "半字负空间切口：将“半”字左点与上横切出 45° 山坡角，呼应半山地形。",
+            "烘焙时间戳字标：将字标末笔与批次卡圆孔结合，像夹在生豆桶上的金属铭牌。",
+            "双语等宽账册：中文粗黑体与英文 BANSHAN 形成上下对齐的实验室封条。"
+          ],
+          "concept": "以重黑体“半山烘焙”为基底，首字“半”右横做批次模具切口，字标下方贯穿四字全宽的水洗生豆青批次标尺与吊牌圆孔。",
+          "defect": "将字标底部的批次标尺与圆孔延伸至四字全宽（x=6..542），保留‘半’字左上点改作右横模具切口，并把 16px 小图标重构为宽孔隙批次吊牌以消除小尺寸粘连警告。",
+          "symbol": null,
+          "wordmark": {
+            "text": "半山烘焙",
+            "role": "display",
+            "location": {
+              "wght": 800
+            },
+            "tracking": 20,
+            "case": "as-is"
+          },
+          "monogram": null,
+          "lockups": [
+            "horizontal"
+          ],
+          "colors": {
+            "wordmark": "primary",
+            "lot-rule": "accent"
+          },
+          "tags": [
+            "letterform"
+          ],
+          "clear_space": {
+            "unit": "cap-height",
+            "multiple": 1,
+            "inferred": true
+          },
+          "min_size": {
+            "px": 24,
+            "mm": 8
+          }
+        },
+        "palette_build": {
+          "strategy": null,
+          "accent": null,
+          "light_bg": "#f1f4f3",
+          "dark_bg": null,
+          "neutral_tint": null,
+          "neutral_chroma": 0.012,
+          "extra": []
+        },
+        "defaults_used": [],
+        "rationale": [
+          {
+            "claim": "按照 ai-defaults 规范提供一套纯字标（wordmark-only）方案，并在中文字形轮廓上通过 wordmark_detail_svg 做专属几何裁切与批次标尺。",
+            "evidence": "practice",
+            "source": "references/logo.md & references/ai-defaults.md"
+          },
+          {
+            "claim": "单字族 Noto Sans SC（800 标题 / 400+600 正文）同时满足中英字符覆盖与默认等宽数字（tnum gate 通过），且零额外字体体积开销。",
+            "evidence": "measured",
+            "source": "font_audit.py"
+          }
+        ]
+      },
+      "palette": {
+        "schema": "brand-identity/palette@1",
+        "name": "烘焙釜黑与水洗豆青",
+        "direction": "冷静的烘焙釜炭黑配水洗咖啡生豆的鲜亮青翠，强调处理法与批次新鲜度。",
+        "brand": [
+          {
+            "id": "brand-1",
+            "name": "烘焙炭黑",
+            "hex": "#1c2321",
+            "source": "chosen",
+            "locked": true,
+            "usage": "字标主体、数据表格标题、深色模式主底"
+          },
+          {
+            "id": "brand-2",
+            "name": "水洗豆青",
+            "hex": "#1d8558",
+            "source": "chosen",
+            "locked": true,
+            "usage": "字标批次标尺、烘焙日期高亮、订阅状态指示"
+          }
+        ],
+        "feels": [
+          "精准",
+          "诚实",
+          "溯源"
+        ]
+      },
+      "symbol_svg": null,
+      "symbol_small_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><g id=\"glyph-mark\" data-color=\"primary\"><rect id=\"stem-mid\" x=\"42\" y=\"8\" width=\"16\" height=\"58\"/><rect id=\"bar-top\" x=\"14\" y=\"20\" width=\"72\" height=\"14\"/><rect id=\"bar-low\" x=\"8\" y=\"42\" width=\"84\" height=\"14\"/><rect id=\"stencil-cut\" x=\"58\" y=\"16\" width=\"12\" height=\"44\" data-op=\"subtract\"/></g><g id=\"lot-rule\" data-color=\"accent\"><rect id=\"tag-bar\" x=\"8\" y=\"76\" width=\"60\" height=\"16\"/><circle id=\"tag-dot\" cx=\"84\" cy=\"84\" r=\"8\"/></g></svg>\n",
+      "wordmark_detail_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\"><rect id=\"half-stencil-cut\" x=\"78\" y=\"22\" width=\"12\" height=\"56\" data-op=\"subtract\" data-glyph=\"1\"/><g id=\"lot-rule\" data-color=\"accent\"><rect id=\"ledger-bar\" x=\"6\" y=\"122\" width=\"496\" height=\"14\"/><circle id=\"lot-hole\" cx=\"530\" cy=\"129\" r=\"9\"/></g></svg>\n"
+    },
+    {
+      "identity": {
+        "set": {
+          "id": "C",
+          "name": "浅烘日晒记 · Light-Roast Parchment",
+          "recommended": false,
+          "mechanism": "浅中烘梅纳反应的焦糖暖调与手写豆袋笔记：圆拱半山/半豆剖面符号、温润马克笔感标题字与日晒羊皮纸色板。",
+          "expression_move": "LXGW Marker Gothic 的手作书写感标题与圆拱半山切口符号，传递成都独立小工作室的温度。",
+          "differs_by": "相比国际精品咖啡（Sey、La Cabra）的冷淡几何风，保留独立烘焙工坊的温暖亲和力，但以干净的半圆拱切口取代俗套的咖啡杯具象图标。"
+        },
+        "axes": {
+          "warm_cool": -2,
+          "classic_contemporary": 1,
+          "quiet_loud": -1,
+          "premium_accessible": 1
+        },
+        "type": {
+          "pairing_mode": "contrast",
+          "display": {
+            "family": "LXGW Marker Gothic",
+            "source": "google",
+            "license": "OFL-1.1",
+            "weights": [
+              400
+            ],
+            "location": {},
+            "features": [],
+            "case": "as-is",
+            "tracking": 20,
+            "fallback": "PingFang SC, system-ui, sans-serif",
+            "file": null
+          },
+          "text": {
+            "family": "Noto Sans SC",
+            "source": "google",
+            "license": "OFL-1.1",
+            "weights": [
+              400,
+              600
+            ],
+            "location": {
+              "wght": 400
+            },
+            "features": [],
+            "case": "as-is",
+            "tracking": 0,
+            "fallback": "PingFang SC, system-ui, sans-serif",
+            "file": null
+          },
+          "mono": null
+        },
+        "logo": {
+          "type": "symbol+wordmark",
+          "ideas": [
+            "半拱山豆：一个饱满的半圆山丘被中缝弧线切分为左右两瓣，左高右低恰如“半山”与半颗浅烘豆。",
+            "烘焙取样勺（Trier）剪影：从烘焙机抽出豆样的长柄取样勺与半山坡面结合。",
+            "日晒果壳双弧：日晒处理法果肉包裹羊皮纸内果皮的双层错位圆弧。",
+            "手冲水流螺旋：注入滤杯的中心水柱与半山等高圆弧。"
+          ],
+          "concept": "圆润的半山拱体被一道偏心竖缝切分为高低两瓣，右侧半山腰落下一枚日晒红珀圆点，兼具“半山”与“咖啡豆剖面”双重阅读。",
+          "defect": "加大半拱中缝与右侧日晒圆点的间距至 14 单位以上以消除 16px 粘连，并加深蜜处理金珀色明度使浅底对比度大于 3:1。",
+          "symbol": "logo/symbol.svg",
+          "wordmark": {
+            "text": "半山烘焙",
+            "role": "display",
+            "location": null,
+            "tracking": 20,
+            "case": "as-is"
+          },
+          "monogram": null,
+          "lockups": [
+            "horizontal",
+            "stacked"
+          ],
+          "colors": {
+            "arch": "primary",
+            "sun-dot": "accent",
+            "wordmark": "text"
+          },
+          "tags": [
+            "abstract-geometric"
+          ],
+          "clear_space": {
+            "unit": "cap-height",
+            "multiple": 1,
+            "inferred": true
+          },
+          "min_size": {
+            "px": 24,
+            "mm": 8
+          }
+        },
+        "palette_build": {
+          "strategy": null,
+          "accent": null,
+          "light_bg": "#f7f1e6",
+          "dark_bg": null,
+          "neutral_tint": null,
+          "neutral_chroma": 0.02,
+          "extra": []
+        },
+        "defaults_used": [
+          {
+            "id": "cream-ground",
+            "why": "简报明确主打“浅中烘”与产地处理法，日晒带壳豆（Parchment Coffee）的真实羊皮纸底色即为浅米黄（#f7f1e6），且与 A/B 两套冷白底色拉开明度与冷暖维度。"
+          },
+          {
+            "id": "terracotta-clay",
+            "why": "浅中度烘焙（Light-to-Medium Roast）咖啡豆在焦糖化阶段呈现真实的红棕琥珀色，区别于传统意式深烘的焦黑，实测竞品（Tim Wendelboe、La Cabra、Sey）均未占用该暖琥珀色区。"
+          },
+          {
+            "id": "gold-brass-accent",
+            "why": "对应日晒/蜜处理咖啡豆果胶层的琥珀铜色，仅作为符号圆点与小面积强调色使用。"
+          }
+        ],
+        "rationale": [
+          {
+            "claim": "使用 LXGW Marker Gothic 作为展示标题字，与 Noto Serif SC（方案 A）、Noto Sans SC（方案 B）在仅有的 9 款可用开源中文字体中实现三种截然不同的字形骨架。",
+            "evidence": "measured",
+            "source": "font_audit.py"
+          },
+          {
+            "claim": "暖色羊皮纸基底与浅烘红棕焦糖色直接取自浅中烘咖啡豆与日晒羊皮纸的真实物料色彩，并已在 defaults_used 中按简报依据备案。",
+            "evidence": "judgement",
+            "source": "references/ai-defaults.md"
+          }
+        ]
+      },
+      "palette": {
+        "schema": "brand-identity/palette@1",
+        "name": "浅烘焦糖与羊皮纸",
+        "direction": "浅中烘豆壳的深红棕色配蜜处理琥珀铜色，落于温暖的日晒羊皮纸底色。",
+        "brand": [
+          {
+            "id": "brand-1",
+            "name": "浅烘深褐",
+            "hex": "#461b0c",
+            "source": "chosen",
+            "locked": true,
+            "usage": "符号主拱体、标题文字、暖调包装主色"
+          },
+          {
+            "id": "brand-2",
+            "name": "日晒铜珀",
+            "hex": "#b85414",
+            "source": "chosen",
+            "locked": true,
+            "usage": "半山日晒圆点、风味标签、次级高亮"
+          }
+        ],
+        "feels": [
+          "温润",
+          "手作",
+          "果香"
+        ]
+      },
+      "symbol_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><g id=\"arch\" data-color=\"primary\"><path id=\"dome\" d=\"M8,90 C8,34 28,10 50,10 C72,10 92,38 92,90 Z\"/><rect id=\"crease\" x=\"43\" y=\"6\" width=\"14\" height=\"88\" data-op=\"subtract\"/><rect id=\"right-step\" x=\"55\" y=\"6\" width=\"42\" height=\"42\" data-op=\"subtract\"/></g><g id=\"sun-dot\" data-color=\"accent\"><circle id=\"berry\" cx=\"75\" cy=\"22\" r=\"12\"/></g></svg>\n",
+      "symbol_small_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><g id=\"arch\" data-color=\"primary\"><path id=\"dome\" d=\"M6,90 C6,32 26,8 48,8 C72,8 94,36 94,90 Z\"/><rect id=\"crease\" x=\"42\" y=\"4\" width=\"16\" height=\"90\" data-op=\"subtract\"/><rect id=\"right-step\" x=\"56\" y=\"4\" width=\"42\" height=\"46\" data-op=\"subtract\"/></g><g id=\"sun-dot\" data-color=\"accent\"><circle id=\"berry\" cx=\"76\" cy=\"21\" r=\"13\"/></g></svg>\n",
+      "wordmark_detail_svg": null
+    }
+  ]
+}

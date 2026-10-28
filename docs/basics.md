@@ -30,6 +30,9 @@ UI/UX 设计在另一个仓库 [uiux-design-skill](https://github.com/rowanmakes
 | 10-22 | 品牌测试在用户本地跑，不在 Claude 云端跑 |
 | 10-22 | 不想自己找感觉（"就像大海捞针"），要 agent 来挑，用户只做判断 |
 | 10-25 | **字体不建库、不获取别人的字体文件**，采用 Anthropic frontend-design 的做法；只用 Google Fonts 等合法来源或已授权的字体 |
+| 10-28 | 改由 Claude 用 Orca 编排：Gemini 4 做品牌，GLM 做脚本，Codex 做评审 |
+| 10-28 | B0 不再等 E3：UI 和品牌分开推进 |
+| 10-28 | 简报竞品由 agent 自己找并写明 |
 
 之前讨论过、现已取消：中文字体库、把字体存到用户的服务器、让 Kimi 去核对字体许可。
 
@@ -49,5 +52,7 @@ UI/UX 设计在另一个仓库 [uiux-design-skill](https://github.com/rowanmakes
 ## 6. 现在的状态与下一步
 
 - v0：调研、路线（`docs/plan.md`）、测试手册（`docs/playbook.md`）、两份简报（半山烘焙、AI 生图桌面工具）。
-- **下一步：** E3（UI）跑完后，用户在本地跑 B0：底座原样做半山烘焙，看中文、字标、三套方向有没有一套惊艳。跑之前在 `test/briefs/b01-banshan.md` 填 3–5 个真实竞品，不填则由 agent 自己找。
-- **之后：** 按 B0 结果补策略层（承诺、角色卡、语气）、中文字标做法、物料；最后打通"品牌 → UI Skill 的 DESIGN.md"。
+- **B0 半山烘焙已跑完（10-28）**：两个底座 × Gemini 4，Codex 独立评审，汇总见 `runs/b0-summary.md`。初步信号：没有一套惊艳；最大缺口是中文字标没有被画出来。
+- 用户判断（10-28）：喜欢乙A（BrandDesign）的造字、乙C 的图标、甲A（brand-identity）的图形创意；其余由 Claude 推进。
+- **下一步（并行）：** B1-r1 用 `docs/wordmark.md` 草案把用户喜欢的三个元素各推一轮，停在黑白检查点；同时补跑 B0 的 B02 简报（两个底座原样）。
+- **之后：** 策略层（承诺、角色卡、语气）、物料；最后打通"品牌 → UI Skill 的 DESIGN.md"。

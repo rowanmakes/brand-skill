@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.1 · 2026-10-28
+
+- 改由 Claude 用 Orca 编排：Gemini 4 做品牌，GLM 做脚本，Codex 做评审；B0 不再等 E3。
+- 跑完 B0 半山烘焙（两个底座原样），汇总 `runs/b0-summary.md`；用户喜欢乙A 造字、乙C 图标、甲A 图形创意。
+- 新增 `docs/wordmark.md`：中文字标做法草案（B1-r1 测试用，未进 Skill）。
+
 ## v0.0.1 · 2026-10-25
 
 - 用户决定：不建中文字体库、不获取别人的字体文件，字体只用 Google Fonts 等合法来源或用户已授权的（同 UI Skill v0.14.1）。

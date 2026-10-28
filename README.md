@@ -4,7 +4,7 @@
 
 和 [uiux-design-skill](https://github.com/rowanmakes/uiux-design-skill) 是两个方向：这里产出品牌，那边产出界面。接口只有一个：品牌规范作为 UI Skill 写 `DESIGN.md` 时的输入。
 
-**当前状态：v0，还没有 Skill 本体。** 按 UI Skill 学到的教训，先拿现成最好的品牌 skill 原样跑测试，看它在中文和我们的模型组合下能做到什么程度，再决定自己补什么。计划见 `docs/plan.md`。
+**当前状态：v0.1，B0 半山烘焙已跑完，还没有 Skill 本体。** 按 UI Skill 学到的教训，先拿现成最好的品牌 skill 原样跑测试，看它在中文和我们的模型组合下能做到什么程度，再决定自己补什么。计划见 `docs/plan.md`。
 
 ## 目录
 
@@ -12,8 +12,10 @@
 docs/basics.md               基础：来龙去脉、用户的决定、风险（先读这份）
 docs/plan.md                 路线：先测底座，再补策略层和物料
 docs/playbook.md             测试流程与提示词
+docs/wordmark.md             中文字标做法（草案）
 docs/research/               调研：Lovart 方法论、6 个品牌 skill 拆解
 test/briefs/                 品牌测试简报
+runs/                        测试产物与评审（汇总见 runs/b0-summary.md）
 CHANGELOG.md                 改动记录
 ```
 

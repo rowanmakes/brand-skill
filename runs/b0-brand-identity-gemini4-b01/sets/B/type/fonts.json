@@ -1,0 +1,25 @@
+{
+  "display": {
+    "family": "Noto Sans SC",
+    "file": "/home/dev/.cache/brand-identity/fonts/instances/NotoSansSC-99ca0eb9b534ae9a.ttf",
+    "location": {
+      "wght": 800
+    },
+    "weights": [
+      800
+    ],
+    "features": []
+  },
+  "text": {
+    "family": "Noto Sans SC",
+    "file": "/home/dev/.cache/brand-identity/fonts/instances/NotoSansSC-38125a9d4bab54d9.ttf",
+    "location": {
+      "wght": 400
+    },
+    "weights": [
+      400,
+      600
+    ],
+    "features": []
+  }
+}

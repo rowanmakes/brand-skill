@@ -1,0 +1,12 @@
+[
+  {
+    "sha256": "115f045a330166ff2e2f0ee45d835f0583e93b357ccb2f69e23dd6834ccb5362",
+    "anchors": 12,
+    "defect": ""
+  },
+  {
+    "sha256": "1acacac4768e4fdbcf5746eea97c53a568639cdf68b09b2dea36b6d70f80ec20",
+    "anchors": 12,
+    "defect": "\u52a0\u5927\u534a\u62f1\u4e2d\u7f1d\u4e0e\u53f3\u4fa7\u65e5\u6652\u5706\u70b9\u7684\u95f4\u8ddd\u81f3 14 \u5355\u4f4d\u4ee5\u4e0a\u4ee5\u6d88\u9664 16px \u7c98\u8fde\uff0c\u5e76\u52a0\u6df1\u871c\u5904\u7406\u91d1\u73c0\u8272\u660e\u5ea6\u4f7f\u6d45\u5e95\u5bf9\u6bd4\u5ea6\u5927\u4e8e 3:1\u3002"
+  }
+]

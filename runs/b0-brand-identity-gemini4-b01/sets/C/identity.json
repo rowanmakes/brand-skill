@@ -1,0 +1,401 @@
+{
+  "schema": "brand-identity/identity@1",
+  "brand": {
+    "name": "半山烘焙",
+    "tagline": "豆子的产地和处理法自己会说话",
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "doc_lang": "zh",
+    "sector": "精品咖啡豆订阅与浅中烘焙工作室",
+    "numbers": true,
+    "copy": {
+      "sentence": {
+        "zh": "埃塞俄比亚古吉日晒，海拔 2150 米，浅度烘焙于 10 月 28 日，¥88 / 200g。",
+        "en": "Guji Uraga Natural, 2150 MASL, light roast on 2026-10-28, ¥88 / 200g."
+      },
+      "nav": [
+        "本期豆单",
+        "订阅计划",
+        "烘焙日志",
+        "产区故事"
+      ],
+      "cta": "开启每月鲜豆订阅"
+    }
+  },
+  "set": {
+    "id": "C",
+    "name": "浅烘日晒记 · Light-Roast Parchment",
+    "recommended": false,
+    "mechanism": "浅中烘梅纳反应的焦糖暖调与手写豆袋笔记：圆拱半山/半豆剖面符号、温润马克笔感标题字与日晒羊皮纸色板。",
+    "expression_move": "LXGW Marker Gothic 的手作书写感标题与圆拱半山切口符号，传递成都独立小工作室的温度。",
+    "differs_by": "相比国际精品咖啡（Sey、La Cabra）的冷淡几何风，保留独立烘焙工坊的温暖亲和力，但以干净的半圆拱切口取代俗套的咖啡杯具象图标。"
+  },
+  "axes": {
+    "warm_cool": -2,
+    "classic_contemporary": 1,
+    "quiet_loud": -1,
+    "premium_accessible": 1
+  },
+  "components": {
+    "logo": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    },
+    "type": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    },
+    "palette": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    }
+  },
+  "type": {
+    "pairing_mode": "contrast",
+    "display": {
+      "family": "LXGW Marker Gothic",
+      "source": "google",
+      "license": "OFL-1.1",
+      "weights": [
+        400
+      ],
+      "location": {},
+      "features": [],
+      "case": "as-is",
+      "tracking": 20,
+      "fallback": "PingFang SC, system-ui, sans-serif",
+      "file": null
+    },
+    "text": {
+      "family": "Noto Sans SC",
+      "source": "google",
+      "license": "OFL-1.1",
+      "weights": [
+        400,
+        600
+      ],
+      "location": {
+        "wght": 400
+      },
+      "features": [],
+      "case": "as-is",
+      "tracking": 0,
+      "fallback": "PingFang SC, system-ui, sans-serif",
+      "file": null
+    },
+    "mono": null
+  },
+  "logo": {
+    "type": "symbol+wordmark",
+    "ideas": [
+      "半拱山豆：一个饱满的半圆山丘被中缝弧线切分为左右两瓣，左高右低恰如“半山”与半颗浅烘豆。",
+      "烘焙取样勺（Trier）剪影：从烘焙机抽出豆样的长柄取样勺与半山坡面结合。",
+      "日晒果壳双弧：日晒处理法果肉包裹羊皮纸内果皮的双层错位圆弧。",
+      "手冲水流螺旋：注入滤杯的中心水柱与半山等高圆弧。"
+    ],
+    "concept": "圆润的半山拱体被一道偏心竖缝切分为高低两瓣，右侧半山腰落下一枚日晒红珀圆点，兼具“半山”与“咖啡豆剖面”双重阅读。",
+    "defect": "加大半拱中缝与右侧日晒圆点的间距至 14 单位以上以消除 16px 粘连，并加深蜜处理金珀色明度使浅底对比度大于 3:1。",
+    "symbol": "logo/symbol.svg",
+    "wordmark": {
+      "text": "半山烘焙",
+      "role": "display",
+      "location": null,
+      "tracking": 20,
+      "case": "as-is"
+    },
+    "monogram": null,
+    "lockups": [
+      "horizontal",
+      "stacked"
+    ],
+    "colors": {
+      "arch": "primary",
+      "sun-dot": "accent",
+      "wordmark": "text"
+    },
+    "tags": [
+      "abstract-geometric"
+    ],
+    "clear_space": {
+      "unit": "cap-height",
+      "multiple": 1,
+      "inferred": true
+    },
+    "min_size": {
+      "px": 24,
+      "mm": 8
+    }
+  },
+  "palette": "palette.json",
+  "defaults_used": [
+    {
+      "id": "cream-ground",
+      "why": "简报明确主打“浅中烘”与产地处理法，日晒带壳豆（Parchment Coffee）的真实羊皮纸底色即为浅米黄（#f7f1e6），且与 A/B 两套冷白底色拉开明度与冷暖维度。"
+    },
+    {
+      "id": "terracotta-clay",
+      "why": "浅中度烘焙（Light-to-Medium Roast）咖啡豆在焦糖化阶段呈现真实的红棕琥珀色，区别于传统意式深烘的焦黑，实测竞品（Tim Wendelboe、La Cabra、Sey）均未占用该暖琥珀色区。"
+    },
+    {
+      "id": "gold-brass-accent",
+      "why": "对应日晒/蜜处理咖啡豆果胶层的琥珀铜色，仅作为符号圆点与小面积强调色使用。"
+    }
+  ],
+  "rationale": [
+    {
+      "claim": "使用 LXGW Marker Gothic 作为展示标题字，与 Noto Serif SC（方案 A）、Noto Sans SC（方案 B）在仅有的 9 款可用开源中文字体中实现三种截然不同的字形骨架。",
+      "evidence": "measured",
+      "source": "font_audit.py"
+    },
+    {
+      "claim": "暖色羊皮纸基底与浅烘红棕焦糖色直接取自浅中烘咖啡豆与日晒羊皮纸的真实物料色彩，并已在 defaults_used 中按简报依据备案。",
+      "evidence": "judgement",
+      "source": "references/ai-defaults.md"
+    }
+  ],
+  "derived": [
+    {
+      "file": "card.png",
+      "requires": [
+        "logo",
+        "type",
+        "palette"
+      ],
+      "inputs_sha256": "08630e88977371074d705db4680b31991c5423c8ffecbcbf29efcc0df0ffd933"
+    }
+  ],
+  "audit": {
+    "schema": "brand-identity/audit@1",
+    "passed": true,
+    "counts": {
+      "gate": 0,
+      "warn": 4,
+      "info": 10
+    },
+    "findings": [
+      {
+        "id": "palette.contrast.light.link-on-text",
+        "component": "palette",
+        "severity": "warn",
+        "measured": 1.16,
+        "threshold": 3.0,
+        "message": "light: link #461b0c on text #241915 is 1.16:1, below 3.0:1 (links distinguishable from body text without underline (WCAG G183); WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.link",
+          "from": "#461b0c",
+          "to": "#a96e5a",
+          "how": "use primary-600 (same scale)",
+          "ratio_after": 4.14
+        },
+        "roles": [
+          "light.link",
+          "light.text"
+        ]
+      },
+      {
+        "id": "palette.cvd.light.protan.link-text",
+        "component": "palette",
+        "severity": "warn",
+        "measured": 8.56,
+        "threshold": 10.0,
+        "message": "light: link and text collapse to CIEDE2000 8.6 for protanopia (#27220a vs #1c1a15)",
+        "suggested_fix": {
+          "change": "modes.light.text",
+          "from": "#241915",
+          "to": "#1f1411",
+          "how": "never carry meaning by colour alone (icon/label); or darken by OKLCH L -0.02, same hue"
+        },
+        "roles": [
+          "light.link",
+          "light.text"
+        ]
+      },
+      {
+        "id": "palette.cvd.dark.tritan.primary-accent",
+        "component": "palette",
+        "severity": "warn",
+        "measured": 9.47,
+        "threshold": 10.0,
+        "message": "dark: primary and accent collapse to CIEDE2000 9.5 for tritanopia (#c9858d vs #e46577)",
+        "suggested_fix": {
+          "change": "modes.dark.accent",
+          "from": "#e06e2b",
+          "to": "#db6925",
+          "how": "never carry meaning by colour alone (icon/label); or darken by OKLCH L -0.02, same hue"
+        },
+        "roles": [
+          "dark.primary",
+          "dark.accent"
+        ]
+      },
+      {
+        "id": "palette.structure.mid-lightness.brand-2",
+        "component": "palette",
+        "severity": "warn",
+        "measured": [
+          4.87,
+          4.32
+        ],
+        "threshold": 5.0,
+        "message": "#b85414 is a mid-lightness trap: white 4.87:1, black 4.32:1; body text on it needs a darker or lighter derivative",
+        "suggested_fix": {
+          "change": "brand-2",
+          "how": "keep the brand colour for large areas/logo; put text on a derivative step of its scale"
+        },
+        "roles": [
+          "brand-2"
+        ]
+      },
+      {
+        "id": "palette.contrast.light.border-on-background",
+        "component": "palette",
+        "severity": "info",
+        "measured": 1.36,
+        "threshold": 3.0,
+        "message": "light: border #d8d0c0 on background #f7f1e6 is 1.36:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.border",
+          "from": "#d8d0c0",
+          "to": "#938b7c",
+          "how": "darken by OKLCH L -0.22, same hue",
+          "ratio_after": 3.0
+        },
+        "roles": [
+          "light.border",
+          "light.background"
+        ]
+      },
+      {
+        "id": "palette.contrast.dark.link-on-text",
+        "component": "palette",
+        "severity": "info",
+        "measured": 2.6,
+        "threshold": 3.0,
+        "message": "dark: link #c78975 on text #f5f2f2 is 2.60:1, below 3.0:1 (underline links in dark mode (WCAG G183: without underline a link needs 3:1 against body text); WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.link",
+          "from": "#c78975",
+          "to": "#a96e5a",
+          "how": "use primary-600 (same scale)",
+          "ratio_after": 3.72
+        },
+        "roles": [
+          "dark.link",
+          "dark.text"
+        ]
+      },
+      {
+        "id": "palette.contrast.dark.border-on-background",
+        "component": "palette",
+        "severity": "info",
+        "measured": 1.87,
+        "threshold": 3.0,
+        "message": "dark: border #4b3e39 on background #160d0a is 1.87:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.border",
+          "from": "#4b3e39",
+          "to": "#7c706c",
+          "how": "use neutral-500 (same scale)",
+          "ratio_after": 4.01
+        },
+        "roles": [
+          "dark.border",
+          "dark.background"
+        ]
+      },
+      {
+        "id": "palette.gamut.brand-2",
+        "component": "palette",
+        "severity": "info",
+        "measured": 0.94,
+        "threshold": 0.9,
+        "message": "#b85414 sits at the sRGB gamut edge (94% of max chroma); vivid colours like this often fall outside CMYK process gamut: specify Lab D50 + tolerance, check with the printer, consider a spot colour",
+        "suggested_fix": null,
+        "roles": [
+          "brand-2"
+        ]
+      },
+      {
+        "id": "palette.harmony.primary-accent",
+        "component": "palette",
+        "severity": "info",
+        "measured": -0.51,
+        "threshold": -0.3,
+        "message": "Ou-Luo two-colour model scores #461b0c + #b85414 at -0.51 (negative = less harmonious on a grey CRT test, no context): model signal only; the pairing table in references/pairing.md takes precedence",
+        "suggested_fix": null,
+        "roles": [
+          "light.primary",
+          "light.accent"
+        ]
+      },
+      {
+        "id": "type.display.coverage.zh_Hans.extended",
+        "component": "type",
+        "severity": "info",
+        "measured": "569/595",
+        "threshold": "100% auxiliary + punctuation",
+        "message": "LXGW Marker Gothic lacks Chinese (Simplified) auxiliary/punctuation characters: ﹉﹊﹋﹌ ﹍﹎﹏ ︳︴ ﹣ ︱ ﹐ ﹑ ﹔ ﹕ ﹗ ﹖ ﹒ (+14)",
+        "suggested_fix": "fine if the brand never writes them (loanwords, names); else another family"
+      },
+      {
+        "id": "type.display.web-weight",
+        "component": "type",
+        "severity": "info",
+        "measured": 219,
+        "threshold": null,
+        "message": "LXGW Marker Gothic: ~219 KB WOFF2 for the brief's characters (per weight file; estimate)",
+        "suggested_fix": null
+      },
+      {
+        "id": "type.text.coverage.en_Latn.extended",
+        "component": "type",
+        "severity": "info",
+        "measured": "97/102",
+        "threshold": "100% auxiliary + punctuation",
+        "message": "Noto Sans SC lacks English auxiliary/punctuation characters: Ĕ Ĭ Ÿ ĕ ĭ",
+        "suggested_fix": "fine if the brand never writes them (loanwords, names); else another family"
+      },
+      {
+        "id": "type.text.coverage.gf-latin-core",
+        "component": "type",
+        "severity": "info",
+        "measured": "223/319",
+        "threshold": "GF Latin Core",
+        "message": "Noto Sans SC misses 96/319 GF Latin Core codepoints (reach beyond the brief's languages)",
+        "suggested_fix": "matters only if the brand may add more Latin-script languages"
+      },
+      {
+        "id": "type.text.web-weight",
+        "component": "type",
+        "severity": "info",
+        "measured": 739,
+        "threshold": null,
+        "message": "Noto Sans SC: ~739 KB WOFF2 for the brief's characters (one variable file, all weights; estimate)",
+        "suggested_fix": null
+      }
+    ],
+    "defaults": {
+      "matched": [
+        "cream-ground",
+        "terracotta-clay"
+      ]
+    }
+  },
+  "palette_build": {
+    "strategy": null,
+    "accent": null,
+    "light_bg": "#f7f1e6",
+    "dark_bg": null,
+    "neutral_tint": null,
+    "neutral_chroma": 0.02,
+    "extra": []
+  }
+}

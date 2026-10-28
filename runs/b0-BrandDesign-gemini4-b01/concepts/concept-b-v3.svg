@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img">
+  <title>半山烘焙 — Concept B (Mid-Slope Arch B Letterform v3)</title>
+  <path fill="#111111" fill-rule="evenodd" d="
+    M 44 24 H 148 A 46 46 0 0 1 148 116 H 72 V 140 H 166 A 46 46 0 0 1 166 232 H 44 V 24 Z
+    M 72 52 V 88 H 148 A 18 18 0 0 0 148 52 H 72 Z
+    M 72 168 V 204 H 166 A 18 18 0 0 0 166 168 H 72 Z
+  "/>
+</svg>

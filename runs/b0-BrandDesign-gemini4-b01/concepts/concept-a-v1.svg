@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img">
+  <title>半山烘焙 — Concept A (Mid-Slope Cut Wordmark v1)</title>
+  <path fill="#111111" fill-rule="evenodd" d="
+    M 56 32 H 76 V 92 H 112 V 110 H 76 V 134 H 124 V 152 H 76 V 224 H 56 V 152 H 16 V 134 H 56 V 110 H 22 V 92 H 56 V 32 Z
+    M 22 44 H 40 L 50 76 H 32 L 22 44 Z
+    M 92 44 H 110 L 100 76 H 82 L 92 44 Z
+    M 180 32 H 200 V 138 H 180 V 32 Z
+    M 140 76 H 160 V 138 H 140 V 76 Z
+    M 220 76 H 240 V 138 H 220 V 76 Z
+    M 140 144 H 160 V 204 H 180 V 144 H 200 V 204 H 220 V 144 H 240 V 224 H 140 V 144 Z
+  "/>
+</svg>

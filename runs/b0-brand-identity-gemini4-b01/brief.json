@@ -1,0 +1,47 @@
+{
+  "schema": "brand-identity/brief@1",
+  "brand": "半山烘焙",
+  "tagline": "豆子的产地和处理法自己会说话",
+  "site": null,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "doc_lang": "zh",
+  "numbers": true,
+  "components": {
+    "logo": "new",
+    "type": "new",
+    "palette": "new"
+  },
+  "sources": {},
+  "sets": 3,
+  "sector": "精品咖啡豆订阅与浅中烘焙工作室",
+  "audience": "在家手冲、看重产区风味与烘焙新鲜度的独立咖啡订阅订户",
+  "attributes": [
+    "风土本位",
+    "清透克制",
+    "诚实溯源"
+  ],
+  "competitors": [
+    "明谦咖啡 Mingqian",
+    "少数派咖啡 Minority",
+    "治光师 Beam Timer",
+    "Tim Wendelboe",
+    "La Cabra"
+  ],
+  "axes": [],
+  "copy": {
+    "sentence": {
+      "zh": "埃塞俄比亚古吉日晒，海拔 2150 米，浅度烘焙于 10 月 28 日，¥88 / 200g。",
+      "en": "Guji Uraga Natural, 2150 MASL, light roast on 2026-10-28, ¥88 / 200g."
+    },
+    "nav": [
+      "本期豆单",
+      "订阅计划",
+      "烘焙日志",
+      "产区故事"
+    ],
+    "cta": "开启每月鲜豆订阅"
+  }
+}

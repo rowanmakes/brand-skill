@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img">
+  <title>半山烘焙 — Concept A (Mid-Slope Horizon Wordmark v3)</title>
+  <path fill="#111111" fill-rule="evenodd" d="
+    M 55 32 H 73 V 84 H 106 V 100 H 73 V 120 H 112 V 136 H 73 V 224 H 55 V 136 H 16 V 120 H 55 V 100 H 22 V 84 H 55 V 32 Z
+    M 20 50 L 32 38 L 50 56 L 38 68 Z
+    M 108 50 L 96 38 L 78 56 L 90 68 Z
+    M 136 72 H 154 V 116 H 136 V 72 Z
+    M 179 32 H 197 V 116 H 179 V 32 Z
+    M 222 72 H 240 V 116 H 222 V 72 Z
+    M 136 140 H 154 V 208 H 179 V 140 H 197 V 208 H 222 V 140 H 240 V 224 H 136 V 140 Z
+  "/>
+</svg>

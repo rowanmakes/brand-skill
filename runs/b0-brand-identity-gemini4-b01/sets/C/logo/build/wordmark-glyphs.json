@@ -1,0 +1,86 @@
+{
+ "units": "wordmark: cap height 100, cap top y=0, baseline y=100, x from the pen origin; index = data-glyph",
+ "text": "半山烘焙",
+ "glyphs": [
+  {
+   "index": 1,
+   "char": "半",
+   "x0": 6.45,
+   "x1": 125.26,
+   "pen_x": 0.0,
+   "advance": 131.58,
+   "cap_top": 0,
+   "baseline": 100,
+   "stems": [
+    [
+     59.74,
+     72.37
+    ]
+   ]
+  },
+  {
+   "index": 2,
+   "char": "山",
+   "x0": 150.0,
+   "x1": 250.0,
+   "pen_x": 134.21,
+   "advance": 131.58,
+   "cap_top": 0,
+   "baseline": 100,
+   "stems": [
+    [
+     150.0,
+     162.63
+    ],
+    [
+     192.76,
+     205.39
+    ],
+    [
+     237.37,
+     250.0
+    ]
+   ]
+  },
+  {
+   "index": 3,
+   "char": "烘",
+   "x0": 278.55,
+   "x1": 390.0,
+   "pen_x": 268.42,
+   "advance": 131.58,
+   "cap_top": 0,
+   "baseline": 100,
+   "stems": [
+    [
+     292.52,
+     310.76
+    ],
+    [
+     335.53,
+     348.16
+    ],
+    [
+     362.5,
+     375.13
+    ]
+   ]
+  },
+  {
+   "index": 4,
+   "char": "焙",
+   "x0": 411.32,
+   "x1": 525.53,
+   "pen_x": 402.63,
+   "advance": 131.58,
+   "cap_top": 0,
+   "baseline": 100,
+   "stems": [
+    [
+     427.03,
+     448.07
+    ]
+   ]
+  }
+ ]
+}

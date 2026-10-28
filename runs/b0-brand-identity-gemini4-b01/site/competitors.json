@@ -1,0 +1,361 @@
+{
+  "schema": "brand-identity/competitors@1",
+  "measuredAt": "2026-10-28T12:45:31.171Z",
+  "note": "Measured hex values approximate public websites; roles are unconfirmed proposals.",
+  "sites": [
+    {
+      "url": "https://timwendelboe.no/",
+      "host": "timwendelboe.no",
+      "status": "ok",
+      "title": "Tim Wendelboe | Tim Wendelboe Coffee",
+      "siteName": "Tim Wendelboe Coffee",
+      "description": "Tim Wendelboe is a coffee roastery, espresso bar and coffee training centre located in Oslo, Norway.",
+      "lang": "en",
+      "themeColor": null,
+      "darkModeSupport": false,
+      "roles": {
+        "background": "#f6ede7",
+        "surface": "#e5d9d0",
+        "surfaceAlt": "#f4f4f4",
+        "border": "#000000",
+        "text": "#000000",
+        "primary": "#0073d5",
+        "accent": "#f26522",
+        "link": "#000000"
+      },
+      "confidence": {
+        "background": 0.85,
+        "surface": 0.79,
+        "surfaceAlt": 0.4,
+        "border": 0.6,
+        "text": 0.85,
+        "primary": 0.15,
+        "accent": 0.3,
+        "link": 0.71
+      },
+      "notes": [],
+      "brandColors": [
+        "#0073d5",
+        "#f26522"
+      ],
+      "topColors": [
+        {
+          "hex": "#f6ede7",
+          "oklch": "oklch(95.1% 0.013 56)",
+          "score": 390.2,
+          "areaShare": 0.9926,
+          "roles": [
+            "background"
+          ]
+        },
+        {
+          "hex": "#000000",
+          "oklch": "oklch(0.0% 0.000 0)",
+          "score": 202.9,
+          "areaShare": 0.4974,
+          "roles": [
+            "text",
+            "link",
+            "border"
+          ]
+        },
+        {
+          "hex": "#24352e",
+          "oklch": "oklch(31.2% 0.026 167)",
+          "score": 108.12,
+          "areaShare": 0.1499,
+          "roles": []
+        },
+        {
+          "hex": "#ffffff",
+          "oklch": "oklch(100.0% 0.000 90)",
+          "score": 44.73,
+          "areaShare": 0.0245,
+          "roles": []
+        },
+        {
+          "hex": "#e5d9d0",
+          "oklch": "oklch(89.2% 0.018 59)",
+          "score": 54.3,
+          "areaShare": 0.1381,
+          "roles": [
+            "surface"
+          ]
+        },
+        {
+          "hex": "#f4f4f4",
+          "oklch": "oklch(96.7% 0.000 90)",
+          "score": 28.24,
+          "areaShare": 0.0718,
+          "roles": [
+            "surfaceAlt"
+          ]
+        },
+        {
+          "hex": "#0073d5",
+          "oklch": "oklch(55.7% 0.173 253)",
+          "score": 0.25,
+          "areaShare": 0,
+          "roles": [
+            "primary"
+          ]
+        },
+        {
+          "hex": "#1c1c1c",
+          "oklch": "oklch(22.6% 0.000 90)",
+          "score": 0.25,
+          "areaShare": 0,
+          "roles": []
+        }
+      ],
+      "nHues": 3,
+      "hues": [
+        253,
+        42,
+        200
+      ],
+      "lightnessRange": [
+        0,
+        1
+      ],
+      "strategy": "tokens",
+      "fonts": {
+        "heading": "FedraSerifA-MediumTF, serif",
+        "body": "\"Fedra Sans L\", sans-serif",
+        "paragraph": "\"Fedra Sans L\", sans-serif",
+        "loaded": [
+          "Instrument Sans 400 normal",
+          "FedraSerifA-MediumTF 400 normal",
+          "Fedra Sans L 400 normal",
+          "Fedra Sans L 600 normal"
+        ]
+      },
+      "screenshot": "competitors/timwendelboe-no.png"
+    },
+    {
+      "url": "https://us.lacabra.com/?showBanner=false&lastClicked=1793191507403",
+      "host": "lacabra.com",
+      "status": "ok",
+      "title": "Coffee, Bakery & Café – La Cabra USA",
+      "siteName": "La Cabra USA",
+      "description": "La Cabra is a modern coffee company born out of Denmark. We embrace innovation and traceability in each step from cherry to cup, and with our single roast philosophy we aim to introduce you to some truly memorable coffee experiences",
+      "lang": "en",
+      "themeColor": null,
+      "darkModeSupport": false,
+      "roles": {
+        "background": "#f8f1ec",
+        "surface": "#ebe3de",
+        "border": "#f8f1ec",
+        "text": "#5b5c53",
+        "primary": "#34352a",
+        "onPrimary": "#ffffff",
+        "accent": "#0073d5",
+        "link": "#34352a"
+      },
+      "confidence": {
+        "background": 0.86,
+        "surface": 0.9,
+        "border": 0.97,
+        "text": 0.72,
+        "primary": 0.9,
+        "onPrimary": 0.93,
+        "accent": 0.23,
+        "link": 0.97
+      },
+      "notes": [],
+      "brandColors": [
+        "#34352a",
+        "#0073d5"
+      ],
+      "topColors": [
+        {
+          "hex": "#f8f1ec",
+          "oklch": "oklch(96.2% 0.010 58)",
+          "score": 739.44,
+          "areaShare": 1.0694,
+          "roles": [
+            "background",
+            "border"
+          ]
+        },
+        {
+          "hex": "#ebe3de",
+          "oklch": "oklch(92.1% 0.011 54)",
+          "score": 113.87,
+          "areaShare": 0.1735,
+          "roles": [
+            "surface"
+          ]
+        },
+        {
+          "hex": "#2e2c29",
+          "oklch": "oklch(29.4% 0.006 78)",
+          "score": 102.9,
+          "areaShare": 0.1568,
+          "roles": []
+        },
+        {
+          "hex": "#34352a",
+          "oklch": "oklch(32.4% 0.019 112)",
+          "score": 97.93,
+          "areaShare": 0.0799,
+          "roles": [
+            "link",
+            "primary"
+          ]
+        },
+        {
+          "hex": "#5b5c53",
+          "oklch": "oklch(47.1% 0.014 112)",
+          "score": 24.8,
+          "areaShare": 0,
+          "roles": [
+            "text"
+          ]
+        },
+        {
+          "hex": "#ffffff",
+          "oklch": "oklch(100.0% 0.000 90)",
+          "score": 9.05,
+          "areaShare": 0,
+          "roles": [
+            "onPrimary"
+          ]
+        },
+        {
+          "hex": "#fdfaf8",
+          "oklch": "oklch(98.7% 0.004 56)",
+          "score": 7.33,
+          "areaShare": 0,
+          "roles": []
+        },
+        {
+          "hex": "#000000",
+          "oklch": "oklch(0.0% 0.000 0)",
+          "score": 6.79,
+          "areaShare": 0,
+          "roles": []
+        }
+      ],
+      "nHues": 3,
+      "hues": [
+        253,
+        65,
+        29
+      ],
+      "lightnessRange": [
+        0,
+        1
+      ],
+      "strategy": "tokens",
+      "fonts": {
+        "heading": "anth, sans-serif",
+        "body": "Gotham, sans-serif",
+        "paragraph": "Gotham, sans-serif",
+        "loaded": [
+          "anth 400 normal",
+          "anth 700 normal",
+          "Gotham 700 normal",
+          "Gotham Book 400 normal",
+          "Gotham 400 normal",
+          "Gotham 500 normal"
+        ]
+      },
+      "screenshot": "competitors/lacabra-com.png"
+    },
+    {
+      "url": "https://www.seycoffee.com/",
+      "host": "seycoffee.com",
+      "status": "ok",
+      "title": "SEY",
+      "siteName": "SEY",
+      "description": "SEY: Explore a brilliant spectrum of flavors, aromatics, and acidities nurtured into existence by the dedicated craftsmanship of our extraordinary producing partners around the world",
+      "lang": "en",
+      "themeColor": null,
+      "darkModeSupport": false,
+      "roles": {
+        "background": "#ffffff",
+        "border": "#cacaca",
+        "text": "#000000",
+        "primary": "#000000",
+        "link": "#000000"
+      },
+      "confidence": {
+        "background": 0.97,
+        "border": 0.65,
+        "text": 0.86,
+        "primary": 0.15,
+        "link": 0.82
+      },
+      "notes": [],
+      "brandColors": [
+        "#000000"
+      ],
+      "topColors": [
+        {
+          "hex": "#ffffff",
+          "oklch": "oklch(100.0% 0.000 90)",
+          "score": 389.7,
+          "areaShare": 1.0393,
+          "roles": [
+            "background"
+          ]
+        },
+        {
+          "hex": "#000000",
+          "oklch": "oklch(0.0% 0.000 0)",
+          "score": 57.34,
+          "areaShare": 0,
+          "roles": [
+            "text",
+            "link",
+            "primary"
+          ]
+        },
+        {
+          "hex": "#cacaca",
+          "oklch": "oklch(83.9% 0.000 90)",
+          "score": 4.56,
+          "areaShare": 0,
+          "roles": [
+            "border"
+          ]
+        },
+        {
+          "hex": "#858585",
+          "oklch": "oklch(61.7% 0.000 90)",
+          "score": 3.59,
+          "areaShare": 0,
+          "roles": []
+        }
+      ],
+      "nHues": 0,
+      "hues": [],
+      "lightnessRange": [
+        0,
+        1
+      ],
+      "strategy": "computed",
+      "fonts": {
+        "heading": "GT-America-Condensed-Regular, sans-serif",
+        "body": "GT-Super-Text-Book, serif",
+        "paragraph": "GT-Super-Text-Book, serif",
+        "loaded": [
+          "GT-America-Condensed-Regular normal normal",
+          "GT-Super-Text-Book normal normal"
+        ]
+      },
+      "screenshot": "competitors/seycoffee-com.png"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://bluebottlecoffee.com/",
+      "host": "bluebottlecoffee.com",
+      "status": "blocked",
+      "error": "blocked: page title \"Attention Required! | Cloudflare\"",
+      "blocked": true,
+      "reason": "page title \"Attention Required! | Cloudflare\""
+    }
+  ]
+}

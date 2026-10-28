@@ -1,0 +1,337 @@
+{
+  "schema": "brand-identity/identity@1",
+  "brand": {
+    "name": "半山烘焙",
+    "tagline": "豆子的产地和处理法自己会说话",
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "doc_lang": "zh",
+    "sector": "精品咖啡豆订阅与浅中烘焙工作室",
+    "numbers": true,
+    "copy": {
+      "sentence": {
+        "zh": "埃塞俄比亚古吉日晒，海拔 2150 米，浅度烘焙于 10 月 28 日，¥88 / 200g。",
+        "en": "Guji Uraga Natural, 2150 MASL, light roast on 2026-10-28, ¥88 / 200g."
+      },
+      "nav": [
+        "本期豆单",
+        "订阅计划",
+        "烘焙日志",
+        "产区故事"
+      ],
+      "cta": "开启每月鲜豆订阅"
+    }
+  },
+  "set": {
+    "id": "B",
+    "name": "生豆批次单 · Origin Lot Tag",
+    "recommended": false,
+    "mechanism": "烘焙工坊的生豆批次吊牌（Lot Tag）：以字标笔画裁切与底栏打孔刻度线直接把“半山烘焙”做成一张产地溯源卡，配单字族黑体与生豆翠青色。",
+    "expression_move": "纯中文字标设计：‘半’字横画的半山断口与底部贯穿的生豆青批次卡尺直接咬合，不设冗余图形。",
+    "differs_by": "彻底摒弃行业常见的图形徽章，用纯字标定制（wordmark-only）+ 实验室批次卡语言，在浅中烘订阅场景中凸显烘焙日期与处理法数据。"
+  },
+  "axes": {
+    "warm_cool": 2,
+    "classic_contemporary": 2,
+    "quiet_loud": 1,
+    "premium_accessible": 1
+  },
+  "components": {
+    "logo": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    },
+    "type": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    },
+    "palette": {
+      "mode": "new",
+      "status": "proposed",
+      "source": null,
+      "sha256": null
+    }
+  },
+  "type": {
+    "pairing_mode": "single-family",
+    "display": {
+      "family": "Noto Sans SC",
+      "source": "google",
+      "license": "OFL-1.1",
+      "weights": [
+        800
+      ],
+      "location": {
+        "wght": 800
+      },
+      "features": [],
+      "case": "as-is",
+      "tracking": 20,
+      "fallback": "PingFang SC, system-ui, sans-serif",
+      "file": null
+    },
+    "text": {
+      "family": "Noto Sans SC",
+      "source": "google",
+      "license": "OFL-1.1",
+      "weights": [
+        400,
+        600
+      ],
+      "location": {
+        "wght": 400
+      },
+      "features": [],
+      "case": "as-is",
+      "tracking": 0,
+      "fallback": "PingFang SC, system-ui, sans-serif",
+      "file": null
+    },
+    "mono": null
+  },
+  "logo": {
+    "type": "wordmark",
+    "ideas": [
+      "批次卡字标：在“半山烘焙”四字下方贯穿生豆批次标尺，并对首字“半”做水平阶梯断口。",
+      "半字负空间切口：将“半”字左点与上横切出 45° 山坡角，呼应半山地形。",
+      "烘焙时间戳字标：将字标末笔与批次卡圆孔结合，像夹在生豆桶上的金属铭牌。",
+      "双语等宽账册：中文粗黑体与英文 BANSHAN 形成上下对齐的实验室封条。"
+    ],
+    "concept": "以重黑体“半山烘焙”为基底，首字“半”右横做批次模具切口，字标下方贯穿四字全宽的水洗生豆青批次标尺与吊牌圆孔。",
+    "defect": "将字标底部的批次标尺与圆孔延伸至四字全宽（x=6..542），保留‘半’字左上点改作右横模具切口，并把 16px 小图标重构为宽孔隙批次吊牌以消除小尺寸粘连警告。",
+    "symbol": null,
+    "wordmark": {
+      "text": "半山烘焙",
+      "role": "display",
+      "location": {
+        "wght": 800
+      },
+      "tracking": 20,
+      "case": "as-is"
+    },
+    "monogram": null,
+    "lockups": [
+      "horizontal"
+    ],
+    "colors": {
+      "wordmark": "primary",
+      "lot-rule": "accent"
+    },
+    "tags": [
+      "letterform"
+    ],
+    "clear_space": {
+      "unit": "cap-height",
+      "multiple": 1,
+      "inferred": true
+    },
+    "min_size": {
+      "px": 24,
+      "mm": 8
+    }
+  },
+  "palette": "palette.json",
+  "defaults_used": [],
+  "rationale": [
+    {
+      "claim": "按照 ai-defaults 规范提供一套纯字标（wordmark-only）方案，并在中文字形轮廓上通过 wordmark_detail_svg 做专属几何裁切与批次标尺。",
+      "evidence": "practice",
+      "source": "references/logo.md & references/ai-defaults.md"
+    },
+    {
+      "claim": "单字族 Noto Sans SC（800 标题 / 400+600 正文）同时满足中英字符覆盖与默认等宽数字（tnum gate 通过），且零额外字体体积开销。",
+      "evidence": "measured",
+      "source": "font_audit.py"
+    }
+  ],
+  "derived": [
+    {
+      "file": "card.png",
+      "requires": [
+        "logo",
+        "type",
+        "palette"
+      ],
+      "inputs_sha256": "6990750e6f117a6e7a58ff5b68b929e0b1b8eebe37feec40d10980e66ec80c99"
+    }
+  ],
+  "audit": {
+    "schema": "brand-identity/audit@1",
+    "passed": true,
+    "counts": {
+      "gate": 0,
+      "warn": 5,
+      "info": 6
+    },
+    "findings": [
+      {
+        "id": "palette.contrast.light.link-on-text",
+        "component": "palette",
+        "severity": "warn",
+        "measured": 2.67,
+        "threshold": 3.0,
+        "message": "light: link #096d45 on text #1c1c1c is 2.67:1, below 3.0:1 (links distinguishable from body text without underline (WCAG G183); WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.link",
+          "from": "#096d45",
+          "to": "#1d8558",
+          "how": "use accent-700 (same scale)",
+          "ratio_after": 3.69
+        },
+        "roles": [
+          "light.link",
+          "light.text"
+        ]
+      },
+      {
+        "id": "palette.distinct.light.success-accent",
+        "component": "palette",
+        "severity": "warn",
+        "measured": 9.98,
+        "threshold": 10.0,
+        "message": "light: success #087868 and accent #1d8558 are only CIEDE2000 10.0 apart; users may read one as the other",
+        "suggested_fix": {
+          "change": "modes.light.success",
+          "from": "#087868",
+          "to": "#047767",
+          "how": "darken by OKLCH L -0.01, same hue"
+        },
+        "roles": [
+          "light.success",
+          "light.accent"
+        ]
+      },
+      {
+        "id": "palette.structure.mid-lightness.brand-2",
+        "component": "palette",
+        "severity": "warn",
+        "measured": [
+          4.62,
+          4.55
+        ],
+        "threshold": 5.0,
+        "message": "#1d8558 is a mid-lightness trap: white 4.62:1, black 4.55:1; body text on it needs a darker or lighter derivative",
+        "suggested_fix": {
+          "change": "brand-2",
+          "how": "keep the brand colour for large areas/logo; put text on a derivative step of its scale"
+        },
+        "roles": [
+          "brand-2"
+        ]
+      },
+      {
+        "id": "palette.contrast.light.border-on-background",
+        "component": "palette",
+        "severity": "info",
+        "measured": 1.36,
+        "threshold": 3.0,
+        "message": "light: border #cdd4d2 on background #f1f4f3 is 1.36:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.light.border",
+          "from": "#cdd4d2",
+          "to": "#878d8c",
+          "how": "darken by OKLCH L -0.22, same hue",
+          "ratio_after": 3.05
+        },
+        "roles": [
+          "light.border",
+          "light.background"
+        ]
+      },
+      {
+        "id": "palette.contrast.dark.border-on-background",
+        "component": "palette",
+        "severity": "info",
+        "measured": 1.88,
+        "threshold": 3.0,
+        "message": "dark: border #414141 on background #0f0f0f is 1.88:1, below 3.0:1 (borders: dividers are exempt, input outlines need 3:1; WCAG 2, no rounding)",
+        "suggested_fix": {
+          "change": "modes.dark.border",
+          "from": "#414141",
+          "to": "#737373",
+          "how": "use neutral-500 (same scale)",
+          "ratio_after": 4.04
+        },
+        "roles": [
+          "dark.border",
+          "dark.background"
+        ]
+      },
+      {
+        "id": "palette.gamut.brand-2",
+        "component": "palette",
+        "severity": "info",
+        "measured": 0.92,
+        "threshold": 0.9,
+        "message": "#1d8558 sits at the sRGB gamut edge (92% of max chroma); vivid colours like this often fall outside CMYK process gamut: specify Lab D50 + tolerance, check with the printer, consider a spot colour",
+        "suggested_fix": null,
+        "roles": [
+          "brand-2"
+        ]
+      },
+      {
+        "id": "type.display+text.coverage.en_Latn.extended",
+        "component": "type",
+        "severity": "info",
+        "measured": "97/102",
+        "threshold": "100% auxiliary + punctuation",
+        "message": "Noto Sans SC lacks English auxiliary/punctuation characters: Ĕ Ĭ Ÿ ĕ ĭ",
+        "suggested_fix": "fine if the brand never writes them (loanwords, names); else another family"
+      },
+      {
+        "id": "type.display+text.coverage.gf-latin-core",
+        "component": "type",
+        "severity": "info",
+        "measured": "223/319",
+        "threshold": "GF Latin Core",
+        "message": "Noto Sans SC misses 96/319 GF Latin Core codepoints (reach beyond the brief's languages)",
+        "suggested_fix": "matters only if the brand may add more Latin-script languages"
+      },
+      {
+        "id": "type.display+text.web-weight",
+        "component": "type",
+        "severity": "info",
+        "measured": 739,
+        "threshold": null,
+        "message": "Noto Sans SC: ~739 KB WOFF2 for the brief's characters (one variable file, all weights; estimate)",
+        "suggested_fix": null
+      },
+      {
+        "id": "cohesion.competitor-colour",
+        "component": "cohesion",
+        "severity": "warn",
+        "measured": 8.2,
+        "threshold": 10,
+        "message": "烘焙炭黑 #1c2321 is ΔE2000 8.2 from lacabra.com's primary #34352a",
+        "suggested_fix": "move lightness or hue until ΔE2000 >= 10, or say why sharing it is deliberate"
+      },
+      {
+        "id": "cohesion.competitor-colour",
+        "component": "cohesion",
+        "severity": "warn",
+        "measured": 9.3,
+        "threshold": 10,
+        "message": "烘焙炭黑 #1c2321 is ΔE2000 9.3 from seycoffee.com's primary #000000",
+        "suggested_fix": "move lightness or hue until ΔE2000 >= 10, or say why sharing it is deliberate"
+      }
+    ],
+    "defaults": {
+      "matched": []
+    }
+  },
+  "palette_build": {
+    "strategy": null,
+    "accent": null,
+    "light_bg": "#f1f4f3",
+    "dark_bg": null,
+    "neutral_tint": null,
+    "neutral_chroma": 0.012,
+    "extra": []
+  }
+}
